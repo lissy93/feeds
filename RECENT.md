@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `29 May 2026` - **[lissy93 deleted](https://github.com/lissy93/who-dat/compare/75ef93ca13...0000000000)**
-- `29 May 2026` - **[lissy93 pushed who-dat](https://github.com/lissy93/who-dat/compare/4657f46878...77696c8dd2)**
-- `29 May 2026` - **[lissy93 contributed to lissy93/who-dat](https://github.com/lissy93/who-dat/pull/16)**
-- `29 May 2026` - **[lissy93 pushed who-dat](https://github.com/lissy93/who-dat/compare/719eb06282...75ef93ca13)**
-- `29 May 2026` - **[lissy93 contributed to lissy93/who-dat](https://github.com/lissy93/who-dat/pull/16)**
+- `30 May 2026` - **[lissy93 deleted](https://github.com/lissy93/AdGuardian-Term/compare/d4b85cd861...0000000000)**
+- `30 May 2026` - **[lissy93 pushed AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/compare/fd08d59e4c...c695c7cd9a)**
+- `30 May 2026` - **[lissy93 contributed to lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/pull/56)**
+- `30 May 2026` - **[lissy93 contributed to lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/pull/56)**
+- `30 May 2026` - **[lissy93 created a branch](https://github.com/lissy93/AdGuardian-Term/compare/0000000000...d4b85cd861)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
