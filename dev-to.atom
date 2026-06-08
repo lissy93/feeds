@@ -1732,7 +1732,7 @@ Some examples include:&lt;/p&gt;
 
 
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Disclaimer
   &lt;ul&gt;
 &lt;li&gt;The above list is intended only to give you ideas for starting points.&lt;/li&gt;
@@ -1752,7 +1752,7 @@ Some examples include:&lt;/p&gt;
 
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;div class="table-wrapper-paragraph"&gt;&lt;table&gt;
 &lt;thead&gt;
@@ -1874,8 +1874,7 @@ The Final Project
   &lt;/div&gt;
   &lt;div class="ltag-github-body"&gt;
     
-&lt;div id="readme" class="md"&gt;
-&lt;div class="markdown-heading"&gt;
+&lt;div id="readme" class="md"&gt;&lt;div class="markdown-heading"&gt;
 &lt;h1 class="heading-element"&gt;✨ My Website&lt;/h1&gt;
 &lt;/div&gt;
 &lt;p&gt;
@@ -1929,8 +1928,7 @@ Crafted with SvelteKit + TypeScript- prioritising SEO, performance, accessibilit
 
   &lt;b&gt;Portfolio Page&lt;/b&gt; - Displays projects from GitHub
 &lt;p&gt;The portfolio page displays the projects you've built. Data is fetched from your GitHub profile, with optional extra fields added in the config.&lt;/p&gt;
-&lt;p&gt;Each project can include: name, description, thumbnail…&lt;/p&gt;
-&lt;/div&gt;
+&lt;p&gt;Each project can include: name, description, thumbnail…&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="gh-btn-container"&gt;&lt;a class="gh-btn" href="https://github.com/Lissy93/my-website" rel="noopener noreferrer"&gt;View on GitHub&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -2586,7 +2584,7 @@ Blog
 
 &lt;p&gt;At the end of the article, I've included some scripts to help you automate the installation and updating of these tools on various systems/ distros.&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   ↕️ &lt;strong&gt;Contents&lt;/strong&gt; (click to expand)
   &lt;br&gt;
 
@@ -2595,174 +2593,95 @@ Blog
 Utils
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;code&gt;thefuck&lt;/code&gt; -  Auto-correct miss-typed commands&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;zoxide&lt;/code&gt; - Easy navigation &lt;em&gt;(better cd)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;tldr&lt;/code&gt; - Community-maintained docs &lt;em&gt;(better &lt;code&gt;man&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;scc&lt;/code&gt; -  Count lines of code &lt;em&gt;(better &lt;code&gt;cloc&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;exa&lt;/code&gt; - Listing Files &lt;em&gt;(better &lt;code&gt;ls&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;duf&lt;/code&gt; - Disk Usage &lt;em&gt;(better &lt;code&gt;df&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;aria2&lt;/code&gt; - Download Utility &lt;em&gt;(better &lt;code&gt;wget&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;bat&lt;/code&gt; - Reading Files &lt;em&gt;(better &lt;code&gt;cat&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;diff-so-fancy&lt;/code&gt; - File Comparisons &lt;em&gt;(better &lt;code&gt;diff&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;entr&lt;/code&gt; - Watch for changes&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;exiftool&lt;/code&gt; - Reading + writing metadata&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;fdupes&lt;/code&gt; - Duplicate file finder&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;fzf&lt;/code&gt; - Fuzzy file finder &lt;em&gt;(better &lt;code&gt;find&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;hyperfine&lt;/code&gt; - Command benchmarking&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;just&lt;/code&gt; - Modern command runner &lt;em&gt;(better &lt;code&gt;make&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;jq&lt;/code&gt; - JSON processor&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;most&lt;/code&gt; - Multi-window scroll pager &lt;em&gt;(better less)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;procs&lt;/code&gt; - Process viewer &lt;em&gt;(better ps)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;rip&lt;/code&gt; - Deletion tool &lt;em&gt;(better rm)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;ripgrep&lt;/code&gt; - Search within files &lt;em&gt;(better &lt;code&gt;grep&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;rsync&lt;/code&gt; -  Fast, incremental file transfer&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;sd&lt;/code&gt; -  Find and replace &lt;em&gt;(better &lt;code&gt;sed&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;tre&lt;/code&gt; - Directory hierarchy &lt;em&gt;(better &lt;code&gt;tree&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;xsel&lt;/code&gt; - Access the clipboard&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;thefuck&lt;/code&gt; -  Auto-correct miss-typed commands&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;zoxide&lt;/code&gt; - Easy navigation &lt;em&gt;(better cd)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tldr&lt;/code&gt; - Community-maintained docs &lt;em&gt;(better &lt;code&gt;man&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;scc&lt;/code&gt; -  Count lines of code &lt;em&gt;(better &lt;code&gt;cloc&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;exa&lt;/code&gt; - Listing Files &lt;em&gt;(better &lt;code&gt;ls&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;duf&lt;/code&gt; - Disk Usage &lt;em&gt;(better &lt;code&gt;df&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;aria2&lt;/code&gt; - Download Utility &lt;em&gt;(better &lt;code&gt;wget&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bat&lt;/code&gt; - Reading Files &lt;em&gt;(better &lt;code&gt;cat&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;diff-so-fancy&lt;/code&gt; - File Comparisons &lt;em&gt;(better &lt;code&gt;diff&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;entr&lt;/code&gt; - Watch for changes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;exiftool&lt;/code&gt; - Reading + writing metadata&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;fdupes&lt;/code&gt; - Duplicate file finder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;fzf&lt;/code&gt; - Fuzzy file finder &lt;em&gt;(better &lt;code&gt;find&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hyperfine&lt;/code&gt; - Command benchmarking&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;just&lt;/code&gt; - Modern command runner &lt;em&gt;(better &lt;code&gt;make&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;jq&lt;/code&gt; - JSON processor&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;most&lt;/code&gt; - Multi-window scroll pager &lt;em&gt;(better less)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;procs&lt;/code&gt; - Process viewer &lt;em&gt;(better ps)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rip&lt;/code&gt; - Deletion tool &lt;em&gt;(better rm)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ripgrep&lt;/code&gt; - Search within files &lt;em&gt;(better &lt;code&gt;grep&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rsync&lt;/code&gt; -  Fast, incremental file transfer&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;sd&lt;/code&gt; -  Find and replace &lt;em&gt;(better &lt;code&gt;sed&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tre&lt;/code&gt; - Directory hierarchy &lt;em&gt;(better &lt;code&gt;tree&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xsel&lt;/code&gt; - Access the clipboard&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 CLI Monitoring and Performance Apps
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;code&gt;bandwhich&lt;/code&gt; - Bandwidth utilization monitor&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;ctop&lt;/code&gt; - Container metrics and monitoring&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;bpytop&lt;/code&gt; - Resource monitoring &lt;em&gt;(better &lt;code&gt;htop&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;glances&lt;/code&gt; - Resource monitor + web and API&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;gping&lt;/code&gt; - Interactive ping tool &lt;em&gt;(better &lt;code&gt;ping&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;dua-cli&lt;/code&gt; - Disk usage analyzer and monitor &lt;em&gt;(better &lt;code&gt;du&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;speedtest-cli&lt;/code&gt; - Command line speed test utility&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;dog&lt;/code&gt;  - DNS lookup client &lt;em&gt;(better &lt;code&gt;dig&lt;/code&gt;)&lt;/em&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bandwhich&lt;/code&gt; - Bandwidth utilization monitor&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ctop&lt;/code&gt; - Container metrics and monitoring&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bpytop&lt;/code&gt; - Resource monitoring &lt;em&gt;(better &lt;code&gt;htop&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;glances&lt;/code&gt; - Resource monitor + web and API&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gping&lt;/code&gt; - Interactive ping tool &lt;em&gt;(better &lt;code&gt;ping&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dua-cli&lt;/code&gt; - Disk usage analyzer and monitor &lt;em&gt;(better &lt;code&gt;du&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;speedtest-cli&lt;/code&gt; - Command line speed test utility&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;dog&lt;/code&gt;  - DNS lookup client &lt;em&gt;(better &lt;code&gt;dig&lt;/code&gt;)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 CLI Productivity Apps
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;code&gt;browsh&lt;/code&gt; - CLI web browser&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;buku&lt;/code&gt; - Bookmark manager&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;cmus&lt;/code&gt; - Music browser / player&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;cointop&lt;/code&gt; - Track crypto prices&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;ddgr&lt;/code&gt; - Search the web from the terminal&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;khal&lt;/code&gt; - Calendar client&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;mutt&lt;/code&gt; - Email client&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;newsboat&lt;/code&gt; - RSS / ATOM news reader&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;rclone&lt;/code&gt; - Manage cloud storage&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;taskwarrior&lt;/code&gt; - Todo + task management&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;tuir&lt;/code&gt; - Terminal UI for Reddit&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;browsh&lt;/code&gt; - CLI web browser&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;buku&lt;/code&gt; - Bookmark manager&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cmus&lt;/code&gt; - Music browser / player&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cointop&lt;/code&gt; - Track crypto prices&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ddgr&lt;/code&gt; - Search the web from the terminal&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;khal&lt;/code&gt; - Calendar client&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;mutt&lt;/code&gt; - Email client&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;newsboat&lt;/code&gt; - RSS / ATOM news reader&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rclone&lt;/code&gt; - Manage cloud storage&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;taskwarrior&lt;/code&gt; - Todo + task management&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tuir&lt;/code&gt; - Terminal UI for Reddit&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 CLI Dev Suits
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;code&gt;httpie&lt;/code&gt; - HTTP / API testing testing client&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;lazydocker&lt;/code&gt; - Full Docker management app&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;lazygit&lt;/code&gt; - Full Git management app&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;kdash&lt;/code&gt; - Kubernetes dashboard app&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;gdp-dashboard&lt;/code&gt; - Visual GDP debugger&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;httpie&lt;/code&gt; - HTTP / API testing testing client&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;lazydocker&lt;/code&gt; - Full Docker management app&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;lazygit&lt;/code&gt; - Full Git management app&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;kdash&lt;/code&gt; - Kubernetes dashboard app&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;gdp-dashboard&lt;/code&gt; - Visual GDP debugger&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 CLI External Sercvices
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;code&gt;ngrok&lt;/code&gt; - Reverse proxy for sharing localhost&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;tmate&lt;/code&gt; - Share a terminal session via internet&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;asciinema&lt;/code&gt; - Recording + sharing terminal sessions&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;navi&lt;/code&gt; - Interactive cheat sheet&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;transfer.sh&lt;/code&gt; - Fast file sharing&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;surge&lt;/code&gt; - Deploy a site in seconds&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;wttr.in&lt;/code&gt; - Check the weather&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ngrok&lt;/code&gt; - Reverse proxy for sharing localhost&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;tmate&lt;/code&gt; - Share a terminal session via internet&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;asciinema&lt;/code&gt; - Recording + sharing terminal sessions&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;navi&lt;/code&gt; - Interactive cheat sheet&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;transfer.sh&lt;/code&gt; - Fast file sharing&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;surge&lt;/code&gt; - Deploy a site in seconds&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;wttr.in&lt;/code&gt; - Check the weather&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 CLI Fun
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;code&gt;cowsay&lt;/code&gt; - Have an ASCII cow say your message&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;figlet&lt;/code&gt; - Output text as big ASCII art text&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;lolcat&lt;/code&gt; - Make console output raibow colored&lt;/li&gt;
-&lt;li&gt;
-&lt;code&gt;neofetch&lt;/code&gt; - Show system data and ditstro info&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cowsay&lt;/code&gt; - Have an ASCII cow say your message&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;figlet&lt;/code&gt; - Output text as big ASCII art text&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;lolcat&lt;/code&gt; - Make console output raibow colored&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;neofetch&lt;/code&gt; - Show system data and ditstro info&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Installations and Management&lt;/li&gt;
@@ -2784,7 +2703,7 @@ Find More
 
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;h2&gt;
   
   
@@ -2804,7 +2723,7 @@ Find More
 
 &lt;p&gt;&lt;a href="https://github.com/nvbn/thefuck" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fnvbn%2Fthefuck%3Fcolor%3D232323%26label%3Dthefuck%26logo%3Dgithub%26labelColor%3D232323" alt="View thefuck on GitHub" width="104" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/nvbn" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fnvbn-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author nvbn" width="61" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DPython%26color%3D3C78A9%26logo%3Dpython%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DPython%26color%3D3C78A9%26logo%3Dpython%26logoColor%3DFFFFFF" alt="Written in Python" width="67" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -2824,7 +2743,7 @@ pkg &lt;span class="nb"&gt;install &lt;/span&gt;thefuck
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -2843,7 +2762,7 @@ pkg &lt;span class="nb"&gt;install &lt;/span&gt;thefuck
 
 &lt;p&gt;&lt;a href="https://github.com/ajeetdsouza/zoxide" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fajeetdsouza%2Fzoxide%3Fcolor%3D232323%26label%3Dzoxide%26logo%3Dgithub%26labelColor%3D232323" alt="View zoxide on GitHub" width="96" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/ajeetdsouza" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fajeetdsouza-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author ajeetdsouza" width="101" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" alt="Written in Rust" width="53" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -2869,7 +2788,7 @@ cargo &lt;span class="nb"&gt;install &lt;/span&gt;zoxide &lt;span class="nt"&gt;
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -2888,7 +2807,7 @@ cargo &lt;span class="nb"&gt;install &lt;/span&gt;zoxide &lt;span class="nt"&gt;
 
 &lt;p&gt;&lt;a href="https://github.com/tldr-pages/tldr" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Ftldr-pages%2Ftldr%3Fcolor%3D232323%26label%3Dtldr%26logo%3Dgithub%26labelColor%3D232323" alt="View tldr on GitHub" width="82" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/tldr-pages" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Ftldr-pages-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author tldr-pages" width="89" height="20"&gt;&lt;/a&gt; &lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -2905,7 +2824,7 @@ npm &lt;span class="nb"&gt;install&lt;/span&gt; &lt;span class="nt"&gt;-g&lt;/sp
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -2924,7 +2843,7 @@ npm &lt;span class="nb"&gt;install&lt;/span&gt; &lt;span class="nt"&gt;-g&lt;/sp
 
 &lt;p&gt;&lt;a href="https://github.com/boyter/scc" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fboyter%2Fscc%3Fcolor%3D232323%26label%3Dscc%26logo%3Dgithub%26labelColor%3D232323" alt="View scc on GitHub" width="82" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/boyter" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fboyter-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author boyter" width="69" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DGo%2520Lang%26color%3D00ADD8%26logo%3Dgo%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DGo%2520Lang%26color%3D00ADD8%26logo%3Dgo%26logoColor%3DFFFFFF" alt="Written in Go" width="73" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -2941,7 +2860,7 @@ go &lt;span class="nb"&gt;install &lt;/span&gt;github.com/boyter/scc/v3@latest
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -2960,7 +2879,7 @@ go &lt;span class="nb"&gt;install &lt;/span&gt;github.com/boyter/scc/v3@latest
 
 &lt;p&gt;&lt;a href="https://github.com/ogham/exa" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fogham%2Fexa%3Fcolor%3D232323%26label%3Dexa%26logo%3Dgithub%26labelColor%3D232323" alt="View exa on GitHub" width="80" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/ogham" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fogham-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author ogham" width="71" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" alt="Written in Rust" width="53" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -2980,7 +2899,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;exa
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -2999,7 +2918,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;exa
 
 &lt;p&gt;&lt;a href="https://github.com/muesli/duf" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fmuesli%2Fduf%3Fcolor%3D232323%26label%3Dduf%26logo%3Dgithub%26labelColor%3D232323" alt="View duf on GitHub" width="80" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/muesli" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fmuesli-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author muesli" width="69" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DGo%2520Lang%26color%3D00ADD8%26logo%3Dgo%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DGo%2520Lang%26color%3D00ADD8%26logo%3Dgo%26logoColor%3DFFFFFF" alt="Written in Go" width="73" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3022,7 +2941,7 @@ pkg &lt;span class="nb"&gt;install &lt;/span&gt;duf
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3041,7 +2960,7 @@ pkg &lt;span class="nb"&gt;install &lt;/span&gt;duf
 
 &lt;p&gt;&lt;a href="https://github.com/aria2/aria2" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Faria2%2Faria2%3Fcolor%3D232323%26label%3Daria2%26logo%3Dgithub%26labelColor%3D232323" alt="View aria2 on GitHub" width="88" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/aria2" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Faria2-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author aria2" width="61" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DC%2B%2B%26color%3D00599C%26logo%3Dcplusplus%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DC%2B%2B%26color%3D00599C%26logo%3Dcplusplus%26logoColor%3DFFFFFF" alt="Written in C++" width="35" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3061,7 +2980,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;aria2
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3080,7 +2999,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;aria2
 
 &lt;p&gt;&lt;a href="https://github.com/sharkdp/bat" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fsharkdp%2Fbat%3Fcolor%3D232323%26label%3Dbat%26logo%3Dgithub%26labelColor%3D232323" alt="View bat on GitHub" width="78" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/sharkdp" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fsharkdp-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author sharkdp" width="79" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" alt="Written in Rust" width="53" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3100,7 +3019,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;bat
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3119,7 +3038,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;bat
 
 &lt;p&gt;&lt;a href="https://github.com/so-fancy/diff-so-fancy" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fso-fancy%2Fdiff-so-fancy%3Fcolor%3D232323%26label%3Ddiff-so-fancy%26logo%3Dgithub%26labelColor%3D232323" alt="View diff-so-fancy on GitHub" width="130" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/so-fancy" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fso-fancy-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author so-fancy" width="79" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DPerl%26color%3D39457E%26logo%3Dperl%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DPerl%26color%3D39457E%26logo%3Dperl%26logoColor%3DFFFFFF" alt="Written in Perl" width="49" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3139,7 +3058,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;diff-so-fancy
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3158,7 +3077,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;diff-so-fancy
 
 &lt;p&gt;&lt;a href="https://github.com/eradman/entr" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Feradman%2Fentr%3Fcolor%3D232323%26label%3Dentr%26logo%3Dgithub%26labelColor%3D232323" alt="View entr on GitHub" width="84" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/eradman" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Feradman-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author eradman" width="83" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DC%26color%3DA8B9CC%26logo%3Dc%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DC%26color%3DA8B9CC%26logo%3Dc%26logoColor%3DFFFFFF" alt="Written in C" width="35" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3178,7 +3097,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;entr
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3231,7 +3150,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;entr
 
 &lt;p&gt;&lt;a href="https://github.com/junegunn/fzf" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fjunegunn%2Ffzf%3Fcolor%3D232323%26label%3Dfzf%26logo%3Dgithub%26labelColor%3D232323" alt="View fzf on GitHub" width="76" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/junegunn" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fjunegunn-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author junegunn" width="85" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DGo%2520Lang%26color%3D00ADD8%26logo%3Dgo%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DGo%2520Lang%26color%3D00ADD8%26logo%3Dgo%26logoColor%3DFFFFFF" alt="Written in Go" width="73" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3251,7 +3170,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;fzf
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3270,7 +3189,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;fzf
 
 &lt;p&gt;&lt;a href="https://github.com/sharkdp/hyperfine" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fsharkdp%2Fhyperfine%3Fcolor%3D232323%26label%3Dhyperfine%26logo%3Dgithub%26labelColor%3D232323" alt="View hyperfine on GitHub" width="112" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/sharkdp" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fsharkdp-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author sharkdp" width="79" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" alt="Written in Rust" width="53" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3290,7 +3209,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;hyperfine
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -3307,7 +3226,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;hyperfine
 
 &lt;p&gt;&lt;a href="https://github.com/casey/just" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2Fcasey%2Fjust%3Fcolor%3D232323%26label%3Djust%26logo%3Dgithub%26labelColor%3D232323" alt="View just on GitHub" width="84" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/casey" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fcasey-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author casey" width="65" height="20"&gt;&lt;/a&gt; &lt;a href="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" class="article-body-image-wrapper"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Flabel%3D%26message%3DRust%26color%3De86243%26logo%3Drust%26logoColor%3DFFFFFF" alt="Written in Rust" width="53" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Install
   &lt;div class="highlight js-code-highlight"&gt;
 &lt;pre class="highlight shell"&gt;&lt;code&gt;
@@ -3327,7 +3246,7 @@ brew &lt;span class="nb"&gt;install &lt;/span&gt;just
 &lt;/div&gt;
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 
 
@@ -4221,7 +4140,7 @@ I've written a Bash helper function to make usage a bit easier, you can &lt;a hr
 
 &lt;p&gt;Here's the script that I made to generate the author, language and GitHub star badges: &lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;&lt;/p&gt;
   Repo Badge Generator
   
 
@@ -4279,7 +4198,7 @@ There's a demo hosted on GH Pages, at: &lt;a href="https://lissy93.github.io/rep
 
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://github.com/Lissy93/repo-badge-maker" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fgithub%2Fstars%2FLissy93%2Frepo-badge-maker%3Fcolor%3D232323%26label%3Drepo-badge-maker%26logo%3Dgithub%26labelColor%3D232323" alt="View repo-badge-maker on GitHub" width="158" height="20"&gt;&lt;/a&gt; &lt;a href="https://github.com/Lissy93" rel="noopener noreferrer"&gt;&lt;img src="https://media.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fimg.shields.io%2Fbadge%2FLissy93-b820f9%3FlabelColor%3Db820f9%26logo%3Dgithubsponsors%26logoColor%3Dfff" alt="Author Lissy93" width="75" height="20"&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -4767,11 +4686,11 @@ You can also use it to specify a file extension, like &lt;code&gt;git grep 'cons
 &lt;p&gt;Tag a specific point in your repo's history using &lt;a href="https://git-scm.com/docs/git-tag" rel="noopener noreferrer"&gt;&lt;code&gt;git tag&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It's often useful to be able to &lt;a href="https://git-scm.com/book/en/v2/Git-Basics-Tagging" rel="noopener noreferrer"&gt;tag&lt;/a&gt; specific, important points in a repository’s history most commonly used to denote versions of releases. Creating a tag is as simple as &lt;code&gt;git tag &amp;lt;tagname&amp;gt;&lt;/code&gt;, or you can tag a historical commit with &lt;code&gt;git tag -a v4.2.0 &amp;lt;commit sha&amp;gt;&lt;/code&gt;. Like with commits, you can include a message alongside a tag, using &lt;code&gt;-m&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;It's often useful to be able to &lt;a href="https://git-scm.com/book/en/v2/Git-Basics-Tagging" rel="noopener noreferrer"&gt;tag&lt;/a&gt; specific, important points in a repository’s history most commonly used to denote versions of releases. Creating a tag is as simple as &lt;code&gt;git&amp;nbsp;tag&amp;nbsp;&amp;lt;tagname&amp;gt;&lt;/code&gt;, or you can tag a historical commit with &lt;code&gt;git tag -a v4.2.0 &amp;lt;commit sha&amp;gt;&lt;/code&gt;. Like with commits, you can include a message alongside a tag, using &lt;code&gt;-m&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;Don't forget to push your tag to remote, with &lt;code&gt;git push origin &amp;lt;tagname&amp;gt;&lt;/code&gt;.&lt;br&gt;
-To list all tags, just run &lt;code&gt;git tag&lt;/code&gt;, and optionally use &lt;code&gt;-l&lt;/code&gt; for a wildcard search.&lt;br&gt;
-You'll then be able to checkout a specific tag, with &lt;code&gt;git checkout &amp;lt;tagname&amp;gt;&lt;/code&gt;&lt;/p&gt;
+To list all tags, just run &lt;code&gt;git&amp;nbsp;tag&lt;/code&gt;, and optionally use &lt;code&gt;-l&lt;/code&gt; for a wildcard search.&lt;br&gt;
+You'll then be able to checkout a specific tag, with &lt;code&gt;git&amp;nbsp;checkout&amp;nbsp;&amp;lt;tagname&amp;gt;&lt;/code&gt;&lt;/p&gt;
 
 
 
@@ -6358,7 +6277,7 @@ Counters will always start from 1. You can reset a counter at anytime with &lt;a
       <pubDate>Mon, 14 Nov 2022 17:37:47 +0000</pubDate>
       <link>https://dev.to/lissy93/awesome-dev-tool-tips-32oo</link>
       <guid>https://dev.to/lissy93/awesome-dev-tool-tips-32oo</guid>
-      <description>&lt;p&gt;
+      <description>&lt;p&gt;&lt;/p&gt;
   &lt;strong&gt;Contents&lt;/strong&gt; (Click to expand) ↕️
   &lt;ul&gt;
 &lt;li&gt;Design Mode&lt;/li&gt;
@@ -6414,7 +6333,7 @@ Counters will always start from 1. You can reset a counter at anytime with &lt;a
 
 
 
-&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h2&gt;
   
