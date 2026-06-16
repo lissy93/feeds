@@ -4,67 +4,201 @@
   <link type="text/html" rel="alternate" href="https://github.com/lissy93"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/lissy93.atom"/>
   <title>GitHub Public Timeline Feed</title>
-  <updated>2026-06-15T20:55:24Z</updated>
+  <updated>2026-06-16T15:36:25-07:00</updated>
   <entry>
-    <id>tag:github.com,2008:push/13371975865</id>
-    <published>2026-06-15 20:55:24 UTC</published>
-    <updated>2026-06-15 20:55:24 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/web-check/compare/986f0fcf6c...be36ee5bf9"/>
-    <title type="html">lissy93 pushed web-check</title>
+    <id>tag:github.com,2008:pr_merged/10778620823</id>
+    <published>2026-06-16 15:36:25 -0700</published>
+    <updated>2026-06-16 15:36:25 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/github/spec-kit/pull/2971"/>
+    <title type="html">lissy93 contributed to github/spec-kit</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
       <uri>https://github.com/lissy93</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
+    <content type="html">&lt;div class=&quot;git-merge js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/web-check/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/web-check&quot; rel=&quot;noreferrer&quot;&gt;lissy93/web-check&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T20:55:24Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 20:55&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;1 commit to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/web-check/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
-
-          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/web-check/commit/be36ee5bf9625cfdf98693161bbfb08c524b99f4&quot; rel=&quot;noreferrer&quot;&gt;be36ee5&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      fix: More performant subdomains
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          merged
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;github/spec-kit#2971&quot; href=&quot;https://github.com/github/spec-kit/pull/2971&quot; rel=&quot;noreferrer&quot;&gt;github/spec-kit#2971&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T15:36:25-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 15:36&lt;/relative-time&gt;
+          &lt;/span&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request merge d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;div&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;fix(tests): don&#39;t run PowerShell tests via WSL-interop powershell.exe&quot; href=&quot;https://github.com/github/spec-kit/pull/2971&quot; rel=&quot;noreferrer&quot;&gt;fix(tests): don&#39;t run PowerShell tests via WSL-interop powershell.exe&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2971&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h2 dir=&quot;auto&quot;&gt;Description&lt;/h2&gt;
+&lt;p dir=&quot;auto&quot;&gt;Fixes tests for WSL.&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Previously, tests were failing when running from within WSL. Because the script was checking if Powershell is with…&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+35&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-35&lt;/span&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            9 comments
+          &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13368850349</id>
-    <published>2026-06-15 19:41:27 UTC</published>
-    <updated>2026-06-15 19:41:27 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/0000000000...881332d7a1"/>
+    <id>tag:github.com,2008:pr_closed/10767767263</id>
+    <published>2026-06-16 04:36:55 -0700</published>
+    <updated>2026-06-16 04:36:55 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/pull/629"/>
+    <title type="html">lissy93 closed a pull request in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-pull-request-closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          closed
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/awesome-privacy#629&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/629&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#629&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T04:36:55-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 04:36&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;div&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Add OpenConvert to File Converters&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/629&quot; rel=&quot;noreferrer&quot;&gt;Add OpenConvert to File Converters&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#629&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h3 dir=&quot;auto&quot;&gt;Type&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Addition&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Changes&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Adds OpenConvert to the File Converters section under Media. OpenConvert is a privacy-first, client-side file conversion too…&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+8&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-0&lt;/span&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            3 comments
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:pr_created/10767024681</id>
+    <published>2026-06-16 10:38:59 -0700</published>
+    <updated>2026-06-16 10:38:59 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/pull/632"/>
+    <title type="html">lissy93 opened a pull request in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-pull-request js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          opened
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/awesome-privacy#632&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/632&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#632&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T10:38:59-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 10:38&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request pull-request d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;div&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Adds AntennaPod to Podcase Players&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/632&quot; rel=&quot;noreferrer&quot;&gt;Adds AntennaPod to Podcase Players&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#632&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h3 dir=&quot;auto&quot;&gt;Type&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Addition&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Changes&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Adds AntennaPod to Podcast Players, &lt;span class=&quot;issue-keyword tooltipped tooltipped-se&quot; aria-label=&quot;This pull request closes issue #255.&quot;&gt;closes&lt;/span&gt; &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;2379192906&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/255&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/issues/255/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/255&quot; rel=&quot;noreferrer&quot;&gt;#255&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Supporting Material&lt;/h3&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Privacy policy: &lt;a href=&quot;https://antennapod.org/privacy&quot; rel=&quot;nofollow noreferrer&quot;&gt;https://antennapod.org/privacy&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&quot;https://antennapod.org&quot; rel=&quot;nofollow noreferrer&quot;&gt;…&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+13&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-1&lt;/span&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            1 comment
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:push/13421303267</id>
+    <published>2026-06-16 17:22:53 UTC</published>
+    <updated>2026-06-16 17:22:53 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/0000000000...6f8bce2a48"/>
     <title type="html">lissy93 created a branch</title>
     <author>
       <name>lissy93</name>
@@ -87,7 +221,7 @@
               &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
 
             &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T19:41:27Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 19:41&lt;/relative-time&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T17:22:53Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 17:22&lt;/relative-time&gt;
             &lt;/span&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -101,7 +235,7 @@
                 &lt;a class=&quot;d-flex&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/1862727?s=40&amp;amp;v=4&quot; alt=&quot;@lissy93&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
               &lt;/div&gt;
                   &lt;div class=&quot;d-inline-block&quot;&gt;
-                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/addition/qbittorrent&quot; href=&quot;https://github.com/lissy93/awesome-privacy/tree/refs/heads/addition/qbittorrent&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/addition/qbittorrent&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/addition/antenapod&quot; href=&quot;https://github.com/lissy93/awesome-privacy/tree/refs/heads/addition/antenapod&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/addition/antenapod&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
                   &lt;/div&gt;
             &lt;/div&gt;
           &lt;/div&gt;
@@ -109,7 +243,7 @@
 
 
           &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-            &lt;span&gt;Updated Jun 15&lt;/span&gt;
+            &lt;span&gt;Updated Jun 16&lt;/span&gt;
           &lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -118,11 +252,194 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13356950982</id>
-    <published>2026-06-15 15:21:07 UTC</published>
-    <updated>2026-06-15 15:21:07 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/web-check/compare/6eef6602df...986f0fcf6c"/>
-    <title type="html">lissy93 pushed web-check</title>
+    <id>tag:github.com,2008:pr_closed/10766245105</id>
+    <published>2026-06-02 08:49:21 -0700</published>
+    <updated>2026-06-02 08:49:21 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/pull/569"/>
+    <title type="html">lissy93 closed a pull request in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-pull-request-closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          closed
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/awesome-privacy#569&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/569&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#569&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-02T08:49:21-07:00&quot; data-view-component=&quot;true&quot;&gt;June 2, 2026 08:49&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;div&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Removes Privacy Badger from Browser Extensions&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/569&quot; rel=&quot;noreferrer&quot;&gt;Removes Privacy Badger from Browser Extensions&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#569&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h3 dir=&quot;auto&quot;&gt;Type&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Removal&lt;/p&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Changes&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Removes Privacy Badger&lt;/p&gt;
+&lt;ul dir=&quot;auto&quot;&gt;
+&lt;li&gt;Enabling it makes you easily detected, defeating the use for additional privacy&lt;/li&gt;
+&lt;li&gt;It doesn&#39;t use heurist…&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+0&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-12&lt;/span&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            3 comments
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:push/13420970535</id>
+    <published>2026-06-16 17:15:41 UTC</published>
+    <updated>2026-06-16 17:15:41 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/fd23f55cd7...0000000000"/>
+    <title type="html">lissy93 deleted</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- delete --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+      
+      deleted
+      branch
+      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/ammendment/privacybadger&lt;/span&gt;
+      in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T17:15:41Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 17:15&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+      &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+        &lt;div&gt;
+          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
+          &lt;/div&gt;
+
+
+            &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+              &lt;span&gt;Updated Jun 16&lt;/span&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:pr_merged/10766141216</id>
+    <published>2026-06-16 10:15:39 -0700</published>
+    <updated>2026-06-16 10:15:39 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/pull/631"/>
+    <title type="html">lissy93 contributed to lissy93/awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-merge js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          merged
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/awesome-privacy#631&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/631&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#631&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T10:15:39-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 10:15&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request merge d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;div&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Update Privacy Badger description&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/631&quot; rel=&quot;noreferrer&quot;&gt;Update Privacy Badger description&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#631&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h3 dir=&quot;auto&quot;&gt;Type&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Amendment&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Changes&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Adds new drawbacks to Privacybadger. As mentioned in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4523758847&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/569&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/569/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/569&quot; rel=&quot;noreferrer&quot;&gt;#569&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Supporting Material&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;See &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4523758847&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/569&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/569/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/569&quot; rel=&quot;noreferrer&quot;&gt;#569&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Affiliation&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;None&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Checklist&lt;/h3&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;&quot; disabled=&quot;&quot; class=&quot;task-list-item-checkbox&quot; aria-label=&quot;Completed task&quot; checked=&quot;&quot;&gt; I ha…&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+3&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-1&lt;/span&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            1 comment
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:push/13420969569</id>
+    <published>2026-06-16 17:15:40 UTC</published>
+    <updated>2026-06-16 17:15:40 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/7600426021...4bd9ac18e8"/>
+    <title type="html">lissy93 pushed awesome-privacy</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
@@ -138,16 +455,16 @@
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
       
       pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/web-check/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
+        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
         in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/web-check&quot; rel=&quot;noreferrer&quot;&gt;lissy93/web-check&lt;/a&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T15:21:07Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 15:21&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T17:15:40Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 17:15&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;1 commit to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/web-check/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
+          &lt;span&gt;2 commits to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
 
           &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
             &lt;ul class=&quot;list-style-none&quot;&gt;
@@ -155,10 +472,21 @@
                   &lt;span&gt;
                     &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
                   &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/web-check/commit/986f0fcf6c1da48fac2ff2d186d7091c74cffbce&quot; rel=&quot;noreferrer&quot;&gt;986f0fc&lt;/a&gt;&lt;/code&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/fd23f55cd702ca718be70edcc08f1f4b03a0a535&quot; rel=&quot;noreferrer&quot;&gt;fd23f55&lt;/a&gt;&lt;/code&gt;
                   &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
                     &lt;blockquote&gt;
-                      fix: Subdomains
+                      Update Privacy Badger description
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/4bd9ac18e8fe216b29a11a6b3ce1fb6285847f98&quot; rel=&quot;noreferrer&quot;&gt;4bd9ac1&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4676372240&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/631&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/631/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/631&quot; rel=&quot;noreferrer&quot;&gt;#631&lt;/a&gt; from lissy93/ammendment/privacybadger
                     &lt;/blockquote&gt;
                   &lt;/div&gt;
                 &lt;/li&gt;
@@ -173,10 +501,10 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13356831502</id>
-    <published>2026-06-15 15:18:48 UTC</published>
-    <updated>2026-06-15 15:18:48 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/9bc2256f31...8735336d7f"/>
+    <id>tag:github.com,2008:push/13420935986</id>
+    <published>2026-06-16 17:14:58 UTC</published>
+    <updated>2026-06-16 17:14:58 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/a75a252aa4...7600426021"/>
     <title type="html">lissy93 pushed awesome-privacy</title>
     <author>
       <name>lissy93</name>
@@ -197,34 +525,23 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T15:18:48Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 15:18&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T17:14:58Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 17:14&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
           &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
 
-          &lt;div class=&quot;commits &quot;&gt;
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
             &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/f3060bd90891f039c15d16657cc16dc42ed4186d43ac06a52adf3e74b66ce5f6/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f65383437326334373230626534616562366238643336613330356362636339363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://0.gravatar.com/avatar/e8472c4720be4aeb6b8d36a305cbcc96?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/94abb8cbebde8d18c553f626911fc80764664d73&quot; rel=&quot;noreferrer&quot;&gt;94abb8c&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Adds Ente Photos
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
                 &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
                   &lt;span&gt;
                     &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
                   &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/8735336d7f209fa22305fc1fbf160280f5af5c17&quot; rel=&quot;noreferrer&quot;&gt;8735336&lt;/a&gt;&lt;/code&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/760042602139541a6a47562fc65f5fe48fa39b3a&quot; rel=&quot;noreferrer&quot;&gt;7600426&lt;/a&gt;&lt;/code&gt;
                   &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
                     &lt;blockquote&gt;
-                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4666063044&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/626&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/626/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/626&quot; rel=&quot;noreferrer&quot;&gt;#626&lt;/a&gt; from ltguillaume/main
+                      Remove push trigger from api deploy workflow
                     &lt;/blockquote&gt;
                   &lt;/div&gt;
                 &lt;/li&gt;
@@ -239,111 +556,72 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13350116493</id>
-    <published>2026-06-15 13:11:42 UTC</published>
-    <updated>2026-06-15 13:11:42 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/6498482087...568caa66a0"/>
-    <title type="html">lissy93 pushed awesome-privacy</title>
+    <id>tag:github.com,2008:pr_created/10766048346</id>
+    <published>2026-06-16 10:13:26 -0700</published>
+    <updated>2026-06-16 10:13:26 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/pull/631"/>
+    <title type="html">lissy93 contributed to lissy93/awesome-privacy</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
       <uri>https://github.com/lissy93</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
+    <content type="html">&lt;div class=&quot;git-merge js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T13:11:42Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 13:11&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits &quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/f3060bd90891f039c15d16657cc16dc42ed4186d43ac06a52adf3e74b66ce5f6/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f65383437326334373230626534616562366238643336613330356362636339363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://0.gravatar.com/avatar/e8472c4720be4aeb6b8d36a305cbcc96?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/7e15bbc88055b3f868a1f06bc405eb52fe6269b5&quot; rel=&quot;noreferrer&quot;&gt;7e15bbc&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Remove AXP.OS due to the sole developer&#39;s death
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/568caa66a0f11307a49c648beacb7c1b2a746160&quot; rel=&quot;noreferrer&quot;&gt;568caa6&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4665308895&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/624&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/624/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/624&quot; rel=&quot;noreferrer&quot;&gt;#624&lt;/a&gt; from ltguillaume/main
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          opened
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/awesome-privacy#631&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/631&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#631&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T10:13:26-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 10:13&lt;/relative-time&gt;
+          &lt;/span&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/13346756933</id>
-    <published>2026-06-15 12:03:16 UTC</published>
-    <updated>2026-06-15 12:03:16 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/compare/ded8bdc8ee...0000000000"/>
-    <title type="html">lissy93 deleted</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- delete --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      deleted
-      branch
-      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/program/pokee-ai-111&lt;/span&gt;
-      in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T12:03:16Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 12:03&lt;/relative-time&gt;
-      &lt;/span&gt;
 
-      &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request merge d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
         &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Update Privacy Badger description&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/631&quot; rel=&quot;noreferrer&quot;&gt;Update Privacy Badger description&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#631&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h3 dir=&quot;auto&quot;&gt;Type&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Amendment&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Changes&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;Adds new drawbacks to Privacybadger. As mentioned in &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4523758847&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/569&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/569/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/569&quot; rel=&quot;noreferrer&quot;&gt;#569&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Supporting Material&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;See &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4523758847&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/569&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/569/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/569&quot; rel=&quot;noreferrer&quot;&gt;#569&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Affiliation&lt;/h3&gt;
+&lt;p dir=&quot;auto&quot;&gt;None&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 dir=&quot;auto&quot;&gt;Checklist&lt;/h3&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;&quot; disabled=&quot;&quot; class=&quot;task-list-item-checkbox&quot; aria-label=&quot;Completed task&quot; checked=&quot;&quot;&gt; I ha…&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+3&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-1&lt;/span&gt;
           &lt;/div&gt;
 
-
-            &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span&gt;Updated Jun 15&lt;/span&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            1 comment
+          &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -351,77 +629,68 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13346755769</id>
-    <published>2026-06-15 12:03:14 UTC</published>
-    <updated>2026-06-15 12:03:14 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/compare/ea149c7d5a...bd57c2d0dc"/>
-    <title type="html">lissy93 pushed bug-bounties</title>
+    <id>tag:github.com,2008:push/13420823067</id>
+    <published>2026-06-16 17:12:30 UTC</published>
+    <updated>2026-06-16 17:12:30 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/0000000000...fd23f55cd7"/>
+    <title type="html">lissy93 created a branch</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
       <uri>https://github.com/lissy93</uri>
     </author>
     <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
 &lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
   &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/bug-bounties/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T12:03:14Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 12:03&lt;/relative-time&gt;
-      &lt;/span&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+              
+              created a
+              branch
+              in
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
 
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/bug-bounties/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits &quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/batamaji&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/251038998?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@batamaji&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/bug-bounties/commit/ded8bdc8ee6c11b6903b3f93c55c6a7f7167291d&quot; rel=&quot;noreferrer&quot;&gt;ded8bdc&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Add program: pokee.ai
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/bug-bounties/commit/bd57c2d0dcd89356403c5899fffc174ab9f3c618&quot; rel=&quot;noreferrer&quot;&gt;bd57c2d&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4664672478&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/bug-bounties/issues/112&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/bug-bounties/pull/112/hovercard&quot; href=&quot;https://github.com/lissy93/bug-bounties/pull/112&quot; rel=&quot;noreferrer&quot;&gt;#112&lt;/a&gt; from lissy93/program/pokee-ai-111
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T17:12:30Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 17:12&lt;/relative-time&gt;
+            &lt;/span&gt;
           &lt;/div&gt;
         &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/1862727?s=40&amp;amp;v=4&quot; alt=&quot;@lissy93&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;div class=&quot;d-inline-block&quot;&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/ammendment/privacybadger&quot; href=&quot;https://github.com/lissy93/awesome-privacy/tree/refs/heads/ammendment/privacybadger&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/ammendment/privacybadger&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
+                  &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Jun 16&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:issue_closed/10699815612</id>
-    <published>2026-06-15 05:03:14 -0700</published>
-    <updated>2026-06-15 05:03:14 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/issues/111"/>
-    <title type="html">lissy93 closed an issue in bug-bounties</title>
+    <id>tag:github.com,2008:issue_closed/10763542312</id>
+    <published>2026-06-16 09:13:32 -0700</published>
+    <updated>2026-06-16 09:13:32 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/630"/>
+    <title type="html">lissy93 closed an issue in awesome-privacy</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
@@ -439,9 +708,9 @@
           
           closed
           an issue in
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
         &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T05:03:14-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 05:03&lt;/relative-time&gt;
+          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T09:13:32-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 09:13&lt;/relative-time&gt;
         &lt;/span&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -450,15 +719,15 @@
       &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
       &lt;div class=&quot;tmp-ml-4&quot;&gt;
         &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;[Program]: pokee.ai&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[Program]: pokee.ai&quot; href=&quot;/lissy93/bug-bounties/issues/111&quot; rel=&quot;noreferrer&quot;&gt;[Program]: pokee.ai&lt;/a&gt;
+          &lt;a title=&quot;[REMOVAL] &amp;lt;title&amp;gt;ARNON&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[REMOVAL] &amp;lt;title&amp;gt;ARNON&quot; href=&quot;/lissy93/awesome-privacy/issues/630&quot; rel=&quot;noreferrer&quot;&gt;[REMOVAL] &amp;lt;title&amp;gt;ARNON&lt;/a&gt;
         &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#111&lt;/span&gt;
+        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#630&lt;/span&gt;
           &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            ### Company pokee.ai ### Program URL https://pokee.ai/bug-bounty ### Contact support@pokee.ai ### Description At Pokee AI, security is a top priori…
+            ### Title https://github.com/lissy93/arnon/tree/fix/security-issues#license ### Removal Reason https://github.com/lissy93/arnon/tree/fix/security-i…
           &lt;/div&gt;
 
           &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            1 comment
+            3 comments
           &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -467,173 +736,11 @@
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13345596683</id>
-    <published>2026-06-15 11:38:13 UTC</published>
-    <updated>2026-06-15 11:38:13 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/compare/6306a0c150...0000000000"/>
-    <title type="html">lissy93 deleted</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- delete --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      deleted
-      branch
-      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/program/codingame-com-109&lt;/span&gt;
-      in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T11:38:13Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 11:38&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-      &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-          &lt;/div&gt;
-
-
-            &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span&gt;Updated Jun 15&lt;/span&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/13345595161</id>
-    <published>2026-06-15 11:38:11 UTC</published>
-    <updated>2026-06-15 11:38:11 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/compare/80339e3f70...ea149c7d5a"/>
-    <title type="html">lissy93 pushed bug-bounties</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/bug-bounties/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T11:38:11Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 11:38&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/bug-bounties/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits &quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/batamaji&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/251038998?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@batamaji&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/bug-bounties/commit/6306a0c15033b9f73a3167f5e81386064b3ce2f4&quot; rel=&quot;noreferrer&quot;&gt;6306a0c&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Add program: codingame.com
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/bug-bounties/commit/ea149c7d5affba8887b72e1c3dd7135bc9fb22a8&quot; rel=&quot;noreferrer&quot;&gt;ea149c7&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4664626778&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/bug-bounties/issues/110&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/bug-bounties/pull/110/hovercard&quot; href=&quot;https://github.com/lissy93/bug-bounties/pull/110&quot; rel=&quot;noreferrer&quot;&gt;#110&lt;/a&gt; from lissy93/program/codingame-com-109
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_closed/10698819468</id>
-    <published>2026-06-15 04:38:11 -0700</published>
-    <updated>2026-06-15 04:38:11 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/issues/109"/>
-    <title type="html">lissy93 closed an issue in bug-bounties</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issues --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-      &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          closed
-          an issue in
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-        &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T04:38:11-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 04:38&lt;/relative-time&gt;
-        &lt;/span&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;[Program]: codingame.com&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[Program]: codingame.com&quot; href=&quot;/lissy93/bug-bounties/issues/109&quot; rel=&quot;noreferrer&quot;&gt;[Program]: codingame.com&lt;/a&gt;
-        &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#109&lt;/span&gt;
-          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            ### Company codingame.com ### Program URL https://www.codingame.com/work/vulnerability-disclosure-policy/ ### Contact _No response_ ### Description…
-          &lt;/div&gt;
-
-          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            1 comment
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_commented/10698786785</id>
-    <published>2026-06-15 04:37:21 -0700</published>
-    <updated>2026-06-15 04:37:21 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2011#issuecomment-4707516394"/>
-    <title type="html">lissy93 commented on an issue in dashy</title>
+    <id>tag:github.com,2008:issue_commented/10763542263</id>
+    <published>2026-06-16 09:13:30 -0700</published>
+    <updated>2026-06-16 09:13:30 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/630#issuecomment-4720881211"/>
+    <title type="html">lissy93 commented on an issue in awesome-privacy</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
@@ -650,30 +757,69 @@
           &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
           
           commented on
-          &lt;a class=&quot;Link--primary&quot; title=&quot;[FEATURE_REQUEST] REST API for managing sections and items&quot; href=&quot;https://github.com/lissy93/dashy/issues/2011#issuecomment-4707516394&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2011&lt;/a&gt;
+          &lt;a class=&quot;Link--primary&quot; title=&quot;[REMOVAL] &amp;lt;title&amp;gt;ARNON&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/630#issuecomment-4720881211&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#630&lt;/a&gt;
           &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T04:37:21-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 04:37&lt;/relative-time&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T09:13:30-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 09:13&lt;/relative-time&gt;
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
       &lt;div class=&quot;f6 mb-1&quot;&gt;
-        &lt;a title=&quot;[FEATURE_REQUEST] REST API for managing sections and items&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/issues/2011#issuecomment-4707516394&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-15T11:37:21Z&quot; class=&quot;no-wrap&quot;&gt;Jun 15, 2026&lt;/relative-time&gt;&lt;/a&gt;
+        &lt;a title=&quot;[REMOVAL] &amp;lt;title&amp;gt;ARNON&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/630#issuecomment-4720881211&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-16T16:13:30Z&quot; class=&quot;no-wrap&quot;&gt;Jun 16, 2026&lt;/relative-time&gt;&lt;/a&gt;
       &lt;/div&gt;
-        Done :) It&#39;s released to 4.3.8
-the swagger docs are at https://dashy.to/api and usage guide is [here](https://dashy.to/docs/api) :)
-Sorry took a li…
+        Ah do you mean the fork?
+I think that was left over from when I tried to submit you a PR 😅
+Done, repo is archived now 👍 Why did you delete Arnon? I…
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13345406735</id>
-    <published>2026-06-15 11:33:58 UTC</published>
-    <updated>2026-06-15 11:33:58 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/7154ce2daf...790b63d3d1"/>
-    <title type="html">lissy93 pushed dashy</title>
+    <id>tag:github.com,2008:issue_commented/10763481108</id>
+    <published>2026-06-16 09:12:03 -0700</published>
+    <updated>2026-06-16 09:12:03 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/630#issuecomment-4720869314"/>
+    <title type="html">lissy93 commented on an issue in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- issue_comment --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          commented on
+          &lt;a class=&quot;Link--primary&quot; title=&quot;[REMOVAL] &amp;lt;title&amp;gt;ARNON&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/630#issuecomment-4720869314&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#630&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T09:12:03-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 09:12&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div class=&quot;f6 mb-1&quot;&gt;
+        &lt;a title=&quot;[REMOVAL] &amp;lt;title&amp;gt;ARNON&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/630#issuecomment-4720869314&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-16T16:12:03Z&quot; class=&quot;no-wrap&quot;&gt;Jun 16, 2026&lt;/relative-time&gt;&lt;/a&gt;
+      &lt;/div&gt;
+        I don&#39;t think it&#39;s listed on awesome-privacy, can&#39;t see it?
+I do remember discussing in #415 and you said you removed the project, so I closed the …
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:push/13415187351</id>
+    <published>2026-06-16 15:17:17 UTC</published>
+    <updated>2026-06-16 15:17:17 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93-forks/spec-kit/compare/fd220cd9dd...1a80f15b34"/>
+    <title type="html">lissy93 pushed spec-kit</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
@@ -689,16 +835,16 @@ Sorry took a li…
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
       
       pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/dashy/tree/WEBSITE/docs-site-source&quot; rel=&quot;noreferrer&quot;&gt;WEBSITE/docs-site-source&lt;/a&gt;
+        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93-forks/spec-kit/tree/fix/2970-pwsh-interop-test-skip&quot; rel=&quot;noreferrer&quot;&gt;fix/2970-pwsh-interop-test-skip&lt;/a&gt;
         in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93-forks/spec-kit&quot; rel=&quot;noreferrer&quot;&gt;lissy93-forks/spec-kit&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T11:33:58Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 11:33&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T15:17:17Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 15:17&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/dashy/tree/WEBSITE/docs-site-source&quot; rel=&quot;noreferrer&quot;&gt;WEBSITE/docs-site-source&lt;/a&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93-forks/spec-kit/tree/fix/2970-pwsh-interop-test-skip&quot; rel=&quot;noreferrer&quot;&gt;fix/2970-pwsh-interop-test-skip&lt;/a&gt;
 
           &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
             &lt;ul class=&quot;list-style-none&quot;&gt;
@@ -706,29 +852,15 @@ Sorry took a li…
                   &lt;span&gt;
                     &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
                   &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/b484ae459450e20e80b866b1efaf03660096c505&quot; rel=&quot;noreferrer&quot;&gt;b484ae4&lt;/a&gt;&lt;/code&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93-forks/spec-kit/commit/1a80f15b3402fc1a6e5423a4d0eef4a6746a6556&quot; rel=&quot;noreferrer&quot;&gt;1a80f15&lt;/a&gt;&lt;/code&gt;
                   &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
                     &lt;blockquote&gt;
-                      API Docs
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/a746b013e83bbe61f1f9f9b5bacfdc42a6fb42ca&quot; rel=&quot;noreferrer&quot;&gt;a746b01&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Update deps, update API spec location
+                      fix(tests): applies copilot feedback, with rename
                     &lt;/blockquote&gt;
                   &lt;/div&gt;
                 &lt;/li&gt;
 
 
-                &lt;li class=&quot;f6 mt-2&quot;&gt;
-                  &lt;a class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/compare/7154ce2daf...790b63d3d1&quot; rel=&quot;noreferrer&quot;&gt;1 more commit »&lt;/a&gt;
-                &lt;/li&gt;
             &lt;/ul&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -738,10 +870,10 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13344819541</id>
-    <published>2026-06-15 11:20:33 UTC</published>
-    <updated>2026-06-15 11:20:33 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/2bfae4dc03...0000000000"/>
+    <id>tag:github.com,2008:push/13415044081</id>
+    <published>2026-06-16 15:14:31 UTC</published>
+    <updated>2026-06-16 15:14:31 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93-forks/free-programming-books/compare/06602b0a20...0000000000"/>
     <title type="html">lissy93 deleted</title>
     <author>
       <name>lissy93</name>
@@ -759,11 +891,210 @@ Sorry took a li…
       
       deleted
       branch
-      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/feat/api&lt;/span&gt;
+      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/fix-redgate-prodev-links&lt;/span&gt;
+      in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93-forks/free-programming-books&quot; rel=&quot;noreferrer&quot;&gt;lissy93-forks/free-programming-books&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T15:14:31Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 15:14&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+      &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+        &lt;div&gt;
+          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93-forks/free-programming-books&quot; rel=&quot;noreferrer&quot;&gt;lissy93-forks/free-programming-books&lt;/a&gt;
+          &lt;/div&gt;
+
+
+            &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+              &lt;span&gt;Updated Jun 16&lt;/span&gt;
+            &lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:pr_merged/10759788883</id>
+    <published>2026-06-16 07:51:52 -0700</published>
+    <updated>2026-06-16 07:51:52 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/EbookFoundation/free-programming-books/pull/13307"/>
+    <title type="html">lissy93 contributed to EbookFoundation/free-programming-books</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-merge js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          merged
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;EbookFoundation/free-programming-books#13307&quot; href=&quot;https://github.com/EbookFoundation/free-programming-books/pull/13307&quot; rel=&quot;noreferrer&quot;&gt;EbookFoundation/free-programming-books#13307&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T07:51:52-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 07:51&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request merge d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;div&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Fix 2 dead links&quot; href=&quot;https://github.com/EbookFoundation/free-programming-books/pull/13307&quot; rel=&quot;noreferrer&quot;&gt;Fix 2 dead links&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#13307&lt;/span&gt;
+            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
+              &lt;h2 dir=&quot;auto&quot;&gt;What does this PR do?&lt;/h2&gt;
+&lt;p dir=&quot;auto&quot;&gt;Fixed Link&lt;/p&gt;
+&lt;h2 dir=&quot;auto&quot;&gt;IMPORTANT&lt;/h2&gt;
+&lt;ul class=&quot;contains-task-list&quot;&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;&quot; disabled=&quot;&quot; class=&quot;task-list-item-checkbox&quot; aria-label=&quot;Completed task&quot; checked=&quot;&quot;&gt; Read our &lt;a href=&quot;https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md&quot; rel=&quot;noreferrer&quot;&gt;contributing guidelines&lt;/a&gt;.&lt;/li&gt;
+&lt;li class=&quot;task-list-item&quot;&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;&quot; disabled=&quot;&quot; class=&quot;task-list-item-checkbox&quot; aria-label=&quot;Completed task&quot; checked=&quot;&quot;&gt; Is this a revision of a previously submitted PR? If so, STOP! Go ba…&lt;/li&gt;
+&lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+2&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-2&lt;/span&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
+            1 comment
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:issue_commented/10751256236</id>
+    <published>2026-06-16 04:45:54 -0700</published>
+    <updated>2026-06-16 04:45:54 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/628#issuecomment-4718372237"/>
+    <title type="html">lissy93 commented on an issue in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- issue_comment --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          commented on
+          &lt;a class=&quot;Link--primary&quot; title=&quot;Resource suggestion: Roommate Move-Out Split Checklist Generator&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/628#issuecomment-4718372237&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#628&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T04:45:54-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 04:45&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div class=&quot;f6 mb-1&quot;&gt;
+        &lt;a title=&quot;Resource suggestion: Roommate Move-Out Split Checklist Generator&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/628#issuecomment-4718372237&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-16T11:45:54Z&quot; class=&quot;no-wrap&quot;&gt;Jun 16, 2026&lt;/relative-time&gt;&lt;/a&gt;
+      &lt;/div&gt;
+        Please stop with the spam. 
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:issue_closed/10751255911</id>
+    <published>2026-06-16 04:45:55 -0700</published>
+    <updated>2026-06-16 04:45:55 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/628"/>
+    <title type="html">lissy93 closed an issue in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- issues --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+      &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          closed
+          an issue in
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
+        &lt;span&gt;
+          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T04:45:55-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 04:45&lt;/relative-time&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;a title=&quot;Resource suggestion: Roommate Move-Out Split Checklist Generator&quot; class=&quot;color-fg-default&quot; aria-label=&quot;Resource suggestion: Roommate Move-Out Split Checklist Generator&quot; href=&quot;/lissy93/awesome-privacy/issues/628&quot; rel=&quot;noreferrer&quot;&gt;Resource suggestion: Roommate Move-Out Split Checklist Generator&lt;/a&gt;
+        &lt;/span&gt;
+        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#628&lt;/span&gt;
+          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
+            Free no-login tool suggestion: Roommate Move-Out Split Checklist Generator URL: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/roommate…
+          &lt;/div&gt;
+
+          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
+            1 comment
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:push/13399847024</id>
+    <published>2026-06-16 10:07:49 UTC</published>
+    <updated>2026-06-16 10:07:49 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/aa8279d53f...0000000000"/>
+    <title type="html">lissy93 deleted</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- delete --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+      
+      deleted
+      branch
+      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/feat/oidc-multi-tenant-support&lt;/span&gt;
       in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T11:20:33Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 11:20&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T10:07:49Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 10:07&lt;/relative-time&gt;
       &lt;/span&gt;
 
       &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -774,7 +1105,7 @@ Sorry took a li…
 
 
             &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span&gt;Updated Jun 15&lt;/span&gt;
+              &lt;span&gt;Updated Jun 16&lt;/span&gt;
             &lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -784,10 +1115,10 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:pr_merged/10698113192</id>
-    <published>2026-06-15 04:20:31 -0700</published>
-    <updated>2026-06-15 04:20:31 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/pull/2209"/>
+    <id>tag:github.com,2008:pr_merged/10747268403</id>
+    <published>2026-06-16 03:07:47 -0700</published>
+    <updated>2026-06-16 03:07:47 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/pull/2211"/>
     <title type="html">lissy93 contributed to lissy93/dashy</title>
     <author>
       <name>lissy93</name>
@@ -806,9 +1137,9 @@ Sorry took a li…
           &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
           
           merged
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/dashy#2209&quot; href=&quot;https://github.com/lissy93/dashy/pull/2209&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2209&lt;/a&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/dashy#2211&quot; href=&quot;https://github.com/lissy93/dashy/pull/2211&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2211&lt;/a&gt;
           &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T04:20:31-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 04:20&lt;/relative-time&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T03:07:47-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 03:07&lt;/relative-time&gt;
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -819,21 +1150,19 @@ Sorry took a li…
 
       &lt;div class=&quot;tmp-ml-4&quot;&gt;
         &lt;div&gt;
-          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;First version of REST API&quot; href=&quot;https://github.com/lissy93/dashy/pull/2209&quot; rel=&quot;noreferrer&quot;&gt;First version of REST API&lt;/a&gt;&lt;/span&gt;
-          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2209&lt;/span&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Option for overriding allowed issuers&quot; href=&quot;https://github.com/lissy93/dashy/pull/2211&quot; rel=&quot;noreferrer&quot;&gt;Option for overriding allowed issuers&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2211&lt;/span&gt;
             &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
               &lt;h3 dir=&quot;auto&quot;&gt;Category&lt;/h3&gt;
 &lt;p dir=&quot;auto&quot;&gt;Feature&lt;/p&gt;
 &lt;h3 dir=&quot;auto&quot;&gt;Overview&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;The API!&lt;/p&gt;
-&lt;h3 dir=&quot;auto&quot;&gt;Issue Number&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;&lt;span class=&quot;issue-keyword tooltipped tooltipped-se&quot; aria-label=&quot;This pull request closes issue #2011.&quot;&gt;Fixes&lt;/span&gt; &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4118475190&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/dashy/issues/2011&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/dashy/issues/2011/hovercard&quot; href=&quot;https://github.com/lissy93/dashy/issues/2011&quot; rel=&quot;noreferrer&quot;&gt;#2011&lt;/a&gt;&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Adds new &lt;code class=&quot;notranslate&quot;&gt;allowedIssuers&lt;/code&gt; option under &lt;code class=&quot;notranslate&quot;&gt;auth.oidc&lt;/code&gt;, which if set will override the auto-discovery, and tokens will only be ac…&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
           &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
-            &lt;span class=&quot;color-fg-success&quot;&gt;+1,434&lt;/span&gt;
-            &lt;span class=&quot;color-fg-danger&quot;&gt;-1&lt;/span&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+164&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-4&lt;/span&gt;
           &lt;/div&gt;
 
       &lt;/div&gt;
@@ -843,10 +1172,10 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13344819238</id>
-    <published>2026-06-15 11:20:32 UTC</published>
-    <updated>2026-06-15 11:20:32 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/e7c0f90bb9...1406587087"/>
+    <id>tag:github.com,2008:push/13399845733</id>
+    <published>2026-06-16 10:07:48 UTC</published>
+    <updated>2026-06-16 10:07:48 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/56bb14120f...97dce2079a"/>
     <title type="html">lissy93 pushed dashy</title>
     <author>
       <name>lissy93</name>
@@ -867,7 +1196,7 @@ Sorry took a li…
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T11:20:32Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 11:20&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T10:07:48Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 10:07&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -880,10 +1209,10 @@ Sorry took a li…
                   &lt;span&gt;
                     &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
                   &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/1500839ef5130447053f128ddec004f063322080&quot; rel=&quot;noreferrer&quot;&gt;1500839&lt;/a&gt;&lt;/code&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/aa8279d53fbd47f3e443820a89947eed3a3f67e1&quot; rel=&quot;noreferrer&quot;&gt;aa8279d&lt;/a&gt;&lt;/code&gt;
                   &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
                     &lt;blockquote&gt;
-                      ✨ REST API for dashboard management (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4118475190&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/dashy/issues/2011&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/dashy/issues/2011/hovercard&quot; href=&quot;https://github.com/lissy93/dashy/issues/2011&quot; rel=&quot;noreferrer&quot;&gt;#2011&lt;/a&gt;)
+                      🛂 Option for overriding allowed issuers (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4669411428&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/dashy/issues/2210&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/dashy/issues/2210/hovercard&quot; href=&quot;https://github.com/lissy93/dashy/issues/2210&quot; rel=&quot;noreferrer&quot;&gt;#2210&lt;/a&gt;)
                     &lt;/blockquote&gt;
                   &lt;/div&gt;
                 &lt;/li&gt;
@@ -891,18 +1220,15 @@ Sorry took a li…
                   &lt;span&gt;
                     &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
                   &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/c32b4a84d029f524390b21e95b14cd48524da7f8&quot; rel=&quot;noreferrer&quot;&gt;c32b4a8&lt;/a&gt;&lt;/code&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/97dce2079a1d3aa3da5962ae891a01783f149130&quot; rel=&quot;noreferrer&quot;&gt;97dce20&lt;/a&gt;&lt;/code&gt;
                   &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
                     &lt;blockquote&gt;
-                      🔑 Add support for custom API keys
+                      🔀 Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4673127614&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/dashy/issues/2211&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/dashy/pull/2211/hovercard&quot; href=&quot;https://github.com/lissy93/dashy/pull/2211&quot; rel=&quot;noreferrer&quot;&gt;#2211&lt;/a&gt; from lissy93/feat/oidc-multi-tenant-support
                     &lt;/blockquote&gt;
                   &lt;/div&gt;
                 &lt;/li&gt;
 
 
-                &lt;li class=&quot;f6 mt-2&quot;&gt;
-                  &lt;a class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/compare/e7c0f90bb9...1406587087&quot; rel=&quot;noreferrer&quot;&gt;2 more commits »&lt;/a&gt;
-                &lt;/li&gt;
             &lt;/ul&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -912,10 +1238,10 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:issue_closed/10698112965</id>
-    <published>2026-06-15 04:20:32 -0700</published>
-    <updated>2026-06-15 04:20:32 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2011"/>
+    <id>tag:github.com,2008:issue_closed/10747268133</id>
+    <published>2026-06-16 03:07:48 -0700</published>
+    <updated>2026-06-16 03:07:48 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2210"/>
     <title type="html">lissy93 closed an issue in dashy</title>
     <author>
       <name>lissy93</name>
@@ -936,7 +1262,7 @@ Sorry took a li…
           an issue in
           &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
         &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T04:20:32-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 04:20&lt;/relative-time&gt;
+          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T03:07:48-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 03:07&lt;/relative-time&gt;
         &lt;/span&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -945,15 +1271,17 @@ Sorry took a li…
       &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
       &lt;div class=&quot;tmp-ml-4&quot;&gt;
         &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;[FEATURE_REQUEST] REST API for managing sections and items&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[FEATURE_REQUEST] REST API for managing sections and items&quot; href=&quot;/lissy93/dashy/issues/2011&quot; rel=&quot;noreferrer&quot;&gt;[FEATURE_REQUEST] REST API for managing sections and items&lt;/a&gt;
+          &lt;a title=&quot;[QUESTION] OIDC Multi-Tenant / Skip issuer verification&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[QUESTION] OIDC Multi-Tenant / Skip issuer verification&quot; href=&quot;/lissy93/dashy/issues/2210&quot; rel=&quot;noreferrer&quot;&gt;[QUESTION] OIDC Multi-Tenant / Skip issuer verification&lt;/a&gt;
         &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2011&lt;/span&gt;
+        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2210&lt;/span&gt;
           &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            Hey 👋 First off — love Dashy, been running it as my homelab dashboard for a while now and it&#39;s great. I was wondering if there&#39;s any interest in ad…
+            ### Question Hey,
+i tried to setup Dashy with an EntraID Multi-Tenant Applikation. For this, the Endpoint is:
+`https://login.microsoftonline.com/or…
           &lt;/div&gt;
 
           &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            3 comments
+            2 comments
           &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -962,10 +1290,99 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:pr_created/10695837230</id>
-    <published>2026-06-15 03:23:43 -0700</published>
-    <updated>2026-06-15 03:23:43 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/pull/2209"/>
+    <id>tag:github.com,2008:issue_commented/10747155690</id>
+    <published>2026-06-16 03:05:23 -0700</published>
+    <updated>2026-06-16 03:05:23 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/627#issuecomment-4717341726"/>
+    <title type="html">lissy93 commented on an issue in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- issue_comment --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          commented on
+          &lt;a class=&quot;Link--primary&quot; title=&quot;Resource suggestion: free Move-Out Timeline Generator&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/627#issuecomment-4717341726&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#627&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T03:05:23-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 03:05&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div class=&quot;f6 mb-1&quot;&gt;
+        &lt;a title=&quot;Resource suggestion: free Move-Out Timeline Generator&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/627#issuecomment-4717341726&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-16T10:05:23Z&quot; class=&quot;no-wrap&quot;&gt;Jun 16, 2026&lt;/relative-time&gt;&lt;/a&gt;
+      &lt;/div&gt;
+        Closing because submissions via issues are no longer accepted. See: #596
+We moved to PRs only, to crack down on spam.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:issue_closed/10747155677</id>
+    <published>2026-06-16 03:05:25 -0700</published>
+    <updated>2026-06-16 03:05:25 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/627"/>
+    <title type="html">lissy93 closed an issue in awesome-privacy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- issues --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+      &lt;div class=&quot;color-fg-muted&quot;&gt;
+          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          closed
+          an issue in
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
+        &lt;span&gt;
+          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T03:05:25-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 03:05&lt;/relative-time&gt;
+        &lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+      &lt;div class=&quot;tmp-ml-4&quot;&gt;
+        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;a title=&quot;Resource suggestion: free Move-Out Timeline Generator&quot; class=&quot;color-fg-default&quot; aria-label=&quot;Resource suggestion: free Move-Out Timeline Generator&quot; href=&quot;/lissy93/awesome-privacy/issues/627&quot; rel=&quot;noreferrer&quot;&gt;Resource suggestion: free Move-Out Timeline Generator&lt;/a&gt;
+        &lt;/span&gt;
+        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#627&lt;/span&gt;
+          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
+            Free no-login Move-Out Timeline Generator: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/moveout-timeline-generator/ It creates a brow…
+          &lt;/div&gt;
+
+          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
+            1 comment
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:pr_created/10747014491</id>
+    <published>2026-06-16 03:02:25 -0700</published>
+    <updated>2026-06-16 03:02:25 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/pull/2211"/>
     <title type="html">lissy93 contributed to lissy93/dashy</title>
     <author>
       <name>lissy93</name>
@@ -984,9 +1401,9 @@ Sorry took a li…
           &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
           
           opened
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/dashy#2209&quot; href=&quot;https://github.com/lissy93/dashy/pull/2209&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2209&lt;/a&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/dashy#2211&quot; href=&quot;https://github.com/lissy93/dashy/pull/2211&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2211&lt;/a&gt;
           &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T03:23:43-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 03:23&lt;/relative-time&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T03:02:25-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 03:02&lt;/relative-time&gt;
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -997,21 +1414,19 @@ Sorry took a li…
 
       &lt;div class=&quot;tmp-ml-4&quot;&gt;
         &lt;div&gt;
-          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;First version of REST API&quot; href=&quot;https://github.com/lissy93/dashy/pull/2209&quot; rel=&quot;noreferrer&quot;&gt;First version of REST API&lt;/a&gt;&lt;/span&gt;
-          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2209&lt;/span&gt;
+          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Option for overriding allowed issuers&quot; href=&quot;https://github.com/lissy93/dashy/pull/2211&quot; rel=&quot;noreferrer&quot;&gt;Option for overriding allowed issuers&lt;/a&gt;&lt;/span&gt;
+          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2211&lt;/span&gt;
             &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
               &lt;h3 dir=&quot;auto&quot;&gt;Category&lt;/h3&gt;
 &lt;p dir=&quot;auto&quot;&gt;Feature&lt;/p&gt;
 &lt;h3 dir=&quot;auto&quot;&gt;Overview&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;The API!&lt;/p&gt;
-&lt;h3 dir=&quot;auto&quot;&gt;Issue Number&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;&lt;span class=&quot;issue-keyword tooltipped tooltipped-se&quot; aria-label=&quot;This pull request closes issue #2011.&quot;&gt;Fixes&lt;/span&gt; &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4118475190&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/dashy/issues/2011&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/dashy/issues/2011/hovercard&quot; href=&quot;https://github.com/lissy93/dashy/issues/2011&quot; rel=&quot;noreferrer&quot;&gt;#2011&lt;/a&gt;&lt;/p&gt;
+&lt;p dir=&quot;auto&quot;&gt;Adds new &lt;code class=&quot;notranslate&quot;&gt;allowedIssuers&lt;/code&gt; option under &lt;code class=&quot;notranslate&quot;&gt;auth.oidc&lt;/code&gt;, which if set will override the auto-discovery, and tokens will only be ac…&lt;/p&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
           &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
-            &lt;span class=&quot;color-fg-success&quot;&gt;+1,434&lt;/span&gt;
-            &lt;span class=&quot;color-fg-danger&quot;&gt;-1&lt;/span&gt;
+            &lt;span class=&quot;color-fg-success&quot;&gt;+164&lt;/span&gt;
+            &lt;span class=&quot;color-fg-danger&quot;&gt;-4&lt;/span&gt;
           &lt;/div&gt;
 
       &lt;/div&gt;
@@ -1021,60 +1436,10 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:issue_assign/10695797684</id>
-    <published>2026-06-15 03:22:44 -0700</published>
-    <updated>2026-06-15 03:22:44 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2011"/>
-    <title type="html">lissy93 assigned an issue in dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_assigned js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issues --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-      &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          assigned
-          an issue in
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
-        &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T03:22:44-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 03:22&lt;/relative-time&gt;
-        &lt;/span&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;[FEATURE_REQUEST] REST API for managing sections and items&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[FEATURE_REQUEST] REST API for managing sections and items&quot; href=&quot;/lissy93/dashy/issues/2011&quot; rel=&quot;noreferrer&quot;&gt;[FEATURE_REQUEST] REST API for managing sections and items&lt;/a&gt;
-        &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2011&lt;/span&gt;
-          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            Hey 👋 First off — love Dashy, been running it as my homelab dashboard for a while now and it&#39;s great. I was wondering if there&#39;s any interest in ad…
-          &lt;/div&gt;
-
-          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            3 comments
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/13341907108</id>
-    <published>2026-06-15 10:14:33 UTC</published>
-    <updated>2026-06-15 10:14:33 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/0000000000...2bfae4dc03"/>
+    <id>tag:github.com,2008:push/13399478121</id>
+    <published>2026-06-16 10:00:18 UTC</published>
+    <updated>2026-06-16 10:00:18 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/0000000000...aa8279d53f"/>
     <title type="html">lissy93 created a branch</title>
     <author>
       <name>lissy93</name>
@@ -1097,7 +1462,7 @@ Sorry took a li…
               &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
 
             &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T10:14:33Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 10:14&lt;/relative-time&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T10:00:18Z&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 10:00&lt;/relative-time&gt;
             &lt;/span&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -1111,7 +1476,7 @@ Sorry took a li…
                 &lt;a class=&quot;d-flex&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/1862727?s=40&amp;amp;v=4&quot; alt=&quot;@lissy93&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
               &lt;/div&gt;
                   &lt;div class=&quot;d-inline-block&quot;&gt;
-                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/feat/api&quot; href=&quot;https://github.com/lissy93/dashy/tree/refs/heads/feat/api&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/feat/api&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/feat/oidc-multi-tenant-support&quot; href=&quot;https://github.com/lissy93/dashy/tree/refs/heads/feat/oidc-multi-tenant-support&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/feat/oidc-multi-tenant-support&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
                   &lt;/div&gt;
             &lt;/div&gt;
           &lt;/div&gt;
@@ -1119,7 +1484,7 @@ Sorry took a li…
 
 
           &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-            &lt;span&gt;Updated Jun 15&lt;/span&gt;
+            &lt;span&gt;Updated Jun 16&lt;/span&gt;
           &lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -1128,401 +1493,11 @@ Sorry took a li…
 &lt;/div&gt;&lt;/div&gt;</content>
   </entry>
   <entry>
-    <id>tag:github.com,2008:push/13340121358</id>
-    <published>2026-06-15 09:36:23 UTC</published>
-    <updated>2026-06-15 09:36:23 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/e55a6166e8...0000000000"/>
-    <title type="html">lissy93 deleted</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- delete --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      deleted
-      branch
-      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/addition/sharex&lt;/span&gt;
-      in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T09:36:23Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 09:36&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-      &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
-          &lt;/div&gt;
-
-
-            &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span&gt;Updated Jun 15&lt;/span&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_closed/10693839176</id>
-    <published>2026-06-15 02:36:22 -0700</published>
-    <updated>2026-06-15 02:36:22 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/issues/247"/>
-    <title type="html">lissy93 closed an issue in awesome-privacy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issues --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-      &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          closed
-          an issue in
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
-        &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T02:36:22-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 02:36&lt;/relative-time&gt;
-        &lt;/span&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;[ADDITION] Sharex (Complete)&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[ADDITION] Sharex (Complete)&quot; href=&quot;/lissy93/awesome-privacy/issues/247&quot; rel=&quot;noreferrer&quot;&gt;[ADDITION] Sharex (Complete)&lt;/a&gt;
-        &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#247&lt;/span&gt;
-          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            ### Category Essentials ### Listing Name Sharex ### Listing URL https://getsharex.com/ ### Listing Icon https://i.imgur.com/51yazyq.png ### Listing…
-          &lt;/div&gt;
-
-          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            1 comment
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/13340120223</id>
-    <published>2026-06-15 09:36:21 UTC</published>
-    <updated>2026-06-15 09:36:21 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/compare/469b13ec7b...fca32d84d5"/>
-    <title type="html">lissy93 pushed awesome-privacy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/awesome-privacy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T09:36:21Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 09:36&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/awesome-privacy/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/e55a6166e8ee30971f9f6da47e3f6429b03ff412&quot; rel=&quot;noreferrer&quot;&gt;e55a616&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Adds ShareX to Screenshot tools
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/awesome-privacy/commit/fca32d84d5c026154c5187c2a95a6dd77b73e475&quot; rel=&quot;noreferrer&quot;&gt;fca32d8&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4660398254&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/622&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/pull/622/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/622&quot; rel=&quot;noreferrer&quot;&gt;#622&lt;/a&gt; from lissy93/addition/sharex
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:pr_merged/10693838876</id>
-    <published>2026-06-15 02:36:20 -0700</published>
-    <updated>2026-06-15 02:36:20 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/awesome-privacy/pull/622"/>
-    <title type="html">lissy93 contributed to lissy93/awesome-privacy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-merge js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- pull_request --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div&gt;
-      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-        &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          merged
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/awesome-privacy#622&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/622&quot; rel=&quot;noreferrer&quot;&gt;lissy93/awesome-privacy#622&lt;/a&gt;
-          &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T02:36:20-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 02:36&lt;/relative-time&gt;
-          &lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request merge d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;div&gt;
-          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Adds ShareX to Screenshot tools&quot; href=&quot;https://github.com/lissy93/awesome-privacy/pull/622&quot; rel=&quot;noreferrer&quot;&gt;Adds ShareX to Screenshot tools&lt;/a&gt;&lt;/span&gt;
-          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#622&lt;/span&gt;
-            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
-              &lt;h3 dir=&quot;auto&quot;&gt;Type&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;Addition&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 dir=&quot;auto&quot;&gt;Changes&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;Adds ShareX to screenshot/record tools.&lt;/p&gt;
-&lt;p dir=&quot;auto&quot;&gt;&lt;span class=&quot;issue-keyword tooltipped tooltipped-se&quot; aria-label=&quot;This pull request closes issue #247.&quot;&gt;Closes&lt;/span&gt; &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;2327802314&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/awesome-privacy/issues/247&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/awesome-privacy/issues/247/hovercard&quot; href=&quot;https://github.com/lissy93/awesome-privacy/issues/247&quot; rel=&quot;noreferrer&quot;&gt;#247&lt;/a&gt;&lt;/p&gt;
-&lt;p dir=&quot;auto&quot;&gt;Drawbacks / Anti-privacy features:&lt;/p&gt;
-&lt;ul dir=&quot;auto&quot;&gt;
-&lt;li&gt;The auto-update check calls releases…&lt;/li&gt;
-&lt;/ul&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-
-          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
-            &lt;span class=&quot;color-fg-success&quot;&gt;+14&lt;/span&gt;
-            &lt;span class=&quot;color-fg-danger&quot;&gt;-1&lt;/span&gt;
-          &lt;/div&gt;
-
-          &lt;div class=&quot;d-inline-block f6 color-fg-muted tmp-ml-3&quot;&gt;
-            1 comment
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/13339558382</id>
-    <published>2026-06-15 09:24:23 UTC</published>
-    <updated>2026-06-15 09:24:23 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/compare/2ddc5b16f3...0000000000"/>
-    <title type="html">lissy93 deleted</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- delete --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      deleted
-      branch
-      &lt;span class=&quot;branch-name&quot;&gt;refs/heads/program/somnoai-digital-sleep-lab-107&lt;/span&gt;
-      in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T09:24:23Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 09:24&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-      &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-        &lt;div&gt;
-          &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-            &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-          &lt;/div&gt;
-
-
-            &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-              &lt;span&gt;Updated Jun 15&lt;/span&gt;
-            &lt;/p&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/13339557309</id>
-    <published>2026-06-15 09:24:22 UTC</published>
-    <updated>2026-06-15 09:24:22 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/compare/7e94aa39e1...906d06d2ed"/>
-    <title type="html">lissy93 pushed bug-bounties</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/bug-bounties/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T09:24:22Z&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 09:24&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/bug-bounties/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits &quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/adityaax&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/98630015?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@adityaax&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/bug-bounties/commit/2ddc5b16f31671be5eb9ce16093091610f40b731&quot; rel=&quot;noreferrer&quot;&gt;2ddc5b1&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Add program: SomnoAI Digital Sleep Lab
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/bug-bounties/commit/906d06d2ed8691905b47333c4222efe6df9ec6d2&quot; rel=&quot;noreferrer&quot;&gt;906d06d&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4663047647&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/bug-bounties/issues/108&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/bug-bounties/pull/108/hovercard&quot; href=&quot;https://github.com/lissy93/bug-bounties/pull/108&quot; rel=&quot;noreferrer&quot;&gt;#108&lt;/a&gt; from lissy93/program/somnoai-digital-sleep-la…
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_closed/10693323045</id>
-    <published>2026-06-15 02:24:22 -0700</published>
-    <updated>2026-06-15 02:24:22 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/bug-bounties/issues/107"/>
-    <title type="html">lissy93 closed an issue in bug-bounties</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issues --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-      &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          closed
-          an issue in
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/bug-bounties&quot; rel=&quot;noreferrer&quot;&gt;lissy93/bug-bounties&lt;/a&gt;
-        &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T02:24:22-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 02:24&lt;/relative-time&gt;
-        &lt;/span&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;SomnoAI Digital Sleep Lab Program&quot; class=&quot;color-fg-default&quot; aria-label=&quot;SomnoAI Digital Sleep Lab Program&quot; href=&quot;/lissy93/bug-bounties/issues/107&quot; rel=&quot;noreferrer&quot;&gt;SomnoAI Digital Sleep Lab Program&lt;/a&gt;
-        &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#107&lt;/span&gt;
-          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            ### Company SomnoAI Digital Sleep Lab ### Program URL https://sleepsomno.com/en/security/bug-bounty ### Contact mailto:sleepsomno.com ### Rewards -…
-          &lt;/div&gt;
-
-          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            1 comment
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_commented/10693273461</id>
-    <published>2026-06-15 02:23:08 -0700</published>
-    <updated>2026-06-15 02:23:08 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/vercel/vercel/issues/11696#issuecomment-4706419595"/>
-    <title type="html">lissy93 commented on an issue in vercel</title>
+    <id>tag:github.com,2008:issue_commented/10746880764</id>
+    <published>2026-06-16 02:59:28 -0700</published>
+    <updated>2026-06-16 02:59:28 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2210#issuecomment-4717269673"/>
+    <title type="html">lissy93 commented on an issue in dashy</title>
     <author>
       <name>lissy93</name>
       <email>alicia@omg.lol</email>
@@ -1539,17 +1514,17 @@ Sorry took a li…
           &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
           
           commented on
-          &lt;a class=&quot;Link--primary&quot; title=&quot;[BUG] Vercel CLI shows Next.js error if page begins with `api-`, even if Next.js is not present in project&quot; href=&quot;https://github.com/vercel/vercel/issues/11696#issuecomment-4706419595&quot; rel=&quot;noreferrer&quot;&gt;vercel/vercel#11696&lt;/a&gt;
+          &lt;a class=&quot;Link--primary&quot; title=&quot;[QUESTION] OIDC Multi-Tenant / Skip issuer verification&quot; href=&quot;https://github.com/lissy93/dashy/issues/2210#issuecomment-4717269673&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2210&lt;/a&gt;
           &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-15T02:23:08-07:00&quot; data-view-component=&quot;true&quot;&gt;June 15, 2026 02:23&lt;/relative-time&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-06-16T02:59:28-07:00&quot; data-view-component=&quot;true&quot;&gt;June 16, 2026 02:59&lt;/relative-time&gt;
           &lt;/span&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
       &lt;div class=&quot;f6 mb-1&quot;&gt;
-        &lt;a title=&quot;[BUG] Vercel CLI shows Next.js error if page begins with `api-`, even if Next.js is not present in project&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/vercel/vercel/issues/11696#issuecomment-4706419595&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-15T09:23:08Z&quot; class=&quot;no-wrap&quot;&gt;Jun 15, 2026&lt;/relative-time&gt;&lt;/a&gt;
+        &lt;a title=&quot;[QUESTION] OIDC Multi-Tenant / Skip issuer verification&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/issues/2210#issuecomment-4717269673&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-06-16T09:59:28Z&quot; class=&quot;no-wrap&quot;&gt;Jun 16, 2026&lt;/relative-time&gt;&lt;/a&gt;
       &lt;/div&gt;
-        Hey @jeffsee55 Would you be able to take a look at this when you have a moment? It&#39;s a real issue, with a really easy fix (see #11611) and would me…
+        Heya @christian--B Yeah, this should be possible. I&#39;d not thought about OIDC providers where the token&#39;s iss doesn&#39;t match the issuer in the discov…
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
