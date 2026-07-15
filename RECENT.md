@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `14 Jul 2026` - **[lissy93 deleted](https://github.com/lissy93/bug-bounties/compare/bb6e100f09...0000000000)**
-- `14 Jul 2026` - **[lissy93 pushed bug-bounties](https://github.com/lissy93/bug-bounties/compare/112dad7b14...3eebaafff6)**
-- `14 Jul 2026` - **[lissy93 closed an issue in bug-bounties](https://github.com/lissy93/bug-bounties/issues/143)**
-- `14 Jul 2026` - **[lissy93 pushed ansibles](https://github.com/lissy93/ansibles/compare/30013eac3a...79977a914c)**
-- `14 Jul 2026` - **[lissy93 deleted](https://github.com/lissy93/bug-bounties/compare/4b6cf4175c...0000000000)**
+- `15 Jul 2026` - **[lissy93 deleted](https://github.com/lissy93/bug-bounties/compare/adebb2844e...0000000000)**
+- `15 Jul 2026` - **[lissy93 pushed bug-bounties](https://github.com/lissy93/bug-bounties/compare/f20af592c3...47e7058595)**
+- `15 Jul 2026` - **[lissy93 closed an issue in bug-bounties](https://github.com/lissy93/bug-bounties/issues/145)**
+- `15 Jul 2026` - **[lissy93 pushed bug-bounties](https://github.com/lissy93/bug-bounties/compare/faf0295cd7...adebb2844e)**
+- `15 Jul 2026` - **[lissy93 pushed portainer-templates](https://github.com/lissy93/portainer-templates/compare/e95e81280f...b4ed3b2fc4)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
