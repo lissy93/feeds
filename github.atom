@@ -4,7 +4,150 @@
   <link type="text/html" rel="alternate" href="https://github.com/lissy93"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/lissy93.atom"/>
   <title>GitHub Public Timeline Feed</title>
-  <updated>2026-07-16T16:15:30Z</updated>
+  <updated>2026-07-17T16:13:07Z</updated>
+  <entry>
+    <id>tag:github.com,2008:push/15193817773</id>
+    <published>2026-07-17 16:13:07 UTC</published>
+    <updated>2026-07-17 16:13:07 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/portainer-templates/compare/2f65665897...fd88d955f3"/>
+    <title type="html">lissy93 pushed portainer-templates</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/portainer-templates/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/portainer-templates&quot; rel=&quot;noreferrer&quot;&gt;lissy93/portainer-templates&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-17T16:13:07Z&quot; data-view-component=&quot;true&quot;&gt;July 17, 2026 16:13&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+          &lt;span&gt;2 commits to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/portainer-templates/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits &quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/Ejb503&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/4939114?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@Ejb503&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/portainer-templates/commit/091ed1c952ed5d2d65fde5ce9eb1a2a00701c1ee&quot; rel=&quot;noreferrer&quot;&gt;091ed1c&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Adds systemprompt template
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/portainer-templates/commit/fd88d955f3dc6ca298c909d2f95b39646c06bebf&quot; rel=&quot;noreferrer&quot;&gt;fd88d95&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Merge pull request &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4902712043&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/portainer-templates/issues/115&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/lissy93/portainer-templates/pull/115/hovercard&quot; href=&quot;https://github.com/lissy93/portainer-templates/pull/115&quot; rel=&quot;noreferrer&quot;&gt;#115&lt;/a&gt; from Ejb503/add-systemprompt
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:issue_commented/11931687761</id>
+    <published>2026-07-17 06:34:19 -0700</published>
+    <updated>2026-07-17 06:34:19 -0700</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2244#issuecomment-5003820421"/>
+    <title type="html">lissy93 commented on an issue in dashy</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- issue_comment --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          commented on
+          &lt;a class=&quot;Link--primary&quot; title=&quot;[BUG] user-data owned by root?&quot; href=&quot;https://github.com/lissy93/dashy/issues/2244#issuecomment-5003820421&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2244&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-17T06:34:19-07:00&quot; data-view-component=&quot;true&quot;&gt;July 17, 2026 06:34&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div class=&quot;f6 mb-1&quot;&gt;
+        &lt;a title=&quot;[BUG] user-data owned by root?&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/issues/2244#issuecomment-5003820421&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-07-17T13:34:19Z&quot; class=&quot;no-wrap&quot;&gt;Jul 17, 2026&lt;/relative-time&gt;&lt;/a&gt;
+      &lt;/div&gt;
+        The COPY --chown=node:node in the Dockerfile sets the correct ownership inside the image.
+But when you mount a host directory as a volume (e.g. `-v…
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:reviewcomment_create/11931086294</id>
+    <published>2026-07-17 13:20:59 UTC</published>
+    <updated>2026-07-17 13:20:59 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/lissy93/portainer-templates/pull/115#discussion_r3603448280"/>
+    <title type="html">lissy93 commented on pull request lissy93/portainer-templates#115</title>
+    <author>
+      <name>lissy93</name>
+      <email>alicia@omg.lol</email>
+      <uri>https://github.com/lissy93</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- pull_request_review_comment --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
+        &lt;div class=&quot;color-fg-muted&quot;&gt;
+            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
+          
+          commented on
+          &lt;a class=&quot;Link--primary&quot; title=&quot;[TEMPLATE] Adds systemprompt&quot; href=&quot;https://github.com/lissy93/portainer-templates/pull/115#discussion_r3603448280&quot; rel=&quot;noreferrer&quot;&gt;lissy93/portainer-templates#115&lt;/a&gt;
+          &lt;span&gt;
+            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-17T13:20:59Z&quot; data-view-component=&quot;true&quot;&gt;July 17, 2026 13:20&lt;/relative-time&gt;
+          &lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div class=&quot;f6 mb-1&quot;&gt;
+        &lt;a class=&quot;Link--secondary&quot; title=&quot;[TEMPLATE] Adds systemprompt&quot; href=&quot;https://github.com/lissy93/portainer-templates/pull/115#discussion_r3603448280&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-07-17T13:20:59Z&quot; class=&quot;no-wrap&quot;&gt;Jul 17, 2026&lt;/relative-time&gt;&lt;/a&gt;
+      &lt;/div&gt;
+        `id` not needed here
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:push/15119667599</id>
     <published>2026-07-16 16:15:30 UTC</published>
@@ -1133,376 +1276,6 @@
           &lt;/div&gt;
 
       &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/15028243324</id>
-    <published>2026-07-15 11:36:39 UTC</published>
-    <updated>2026-07-15 11:36:39 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/44390fa70c...ef0bc2879f"/>
-    <title type="html">lissy93 pushed dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/dashy/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T11:36:39Z&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 11:36&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;2 commits to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/dashy/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
-
-          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/c083f5756a538dd0c0eca67c685668f83c76a069&quot; rel=&quot;noreferrer&quot;&gt;c083f57&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      ✨ Rebuilt the github stats widget for gh api
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/f9e821755cb93d76391f352403a50fcf11ce6d89&quot; rel=&quot;noreferrer&quot;&gt;f9e8217&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      ✨ Simplifies options for github stats widget
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-                &lt;li class=&quot;f6 mt-2&quot;&gt;
-                  &lt;a class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/compare/44390fa70c...ef0bc2879f&quot; rel=&quot;noreferrer&quot;&gt;1 more commit »&lt;/a&gt;
-                &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_closed/11817970326</id>
-    <published>2026-07-15 04:36:39 -0700</published>
-    <updated>2026-07-15 04:36:39 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2241"/>
-    <title type="html">lissy93 closed an issue in dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_closed js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issues --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-      &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          closed
-          an issue in
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
-        &lt;span&gt;
-          · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T04:36:39-07:00&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 04:36&lt;/relative-time&gt;
-        &lt;/span&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Issue&quot; class=&quot;octicon octicon-issue-closed closed d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;a title=&quot;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&quot; class=&quot;color-fg-default&quot; aria-label=&quot;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&quot; href=&quot;/lissy93/dashy/issues/2241&quot; rel=&quot;noreferrer&quot;&gt;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&lt;/a&gt;
-        &lt;/span&gt;
-        &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2241&lt;/span&gt;
-          &lt;div class=&quot;dashboard-break-word lh-condensed mb-2 mt-1&quot;&gt;
-            ### Environment Self-Hosted (Docker) ### System Ubuntu Armbian 25.8.1 noble ### Version Latest ### Describe the problem  I&#39;m using the example widg…
-          &lt;/div&gt;
-
-          &lt;div class=&quot;f6 color-fg-muted mt-1&quot;&gt;
-            3 comments
-          &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_commented/11817947474</id>
-    <published>2026-07-15 04:36:04 -0700</published>
-    <updated>2026-07-15 04:36:04 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2241#issuecomment-4980083424"/>
-    <title type="html">lissy93 commented on an issue in dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issue_comment --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-        &lt;div class=&quot;color-fg-muted&quot;&gt;
-            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          commented on
-          &lt;a class=&quot;Link--primary&quot; title=&quot;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&quot; href=&quot;https://github.com/lissy93/dashy/issues/2241#issuecomment-4980083424&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2241&lt;/a&gt;
-          &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T04:36:04-07:00&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 04:36&lt;/relative-time&gt;
-          &lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;div class=&quot;f6 mb-1&quot;&gt;
-        &lt;a title=&quot;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/issues/2241#issuecomment-4980083424&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-07-15T11:36:04Z&quot; class=&quot;no-wrap&quot;&gt;Jul 15, 2026&lt;/relative-time&gt;&lt;/a&gt;
-      &lt;/div&gt;
-        Got a PR ready in #2242 :)
-I&#39;ll let you know once it&#39;s merged and released. --- Here&#39;s what the new version looks like:  And usage is like this: ``…
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:pr_created/11817901340</id>
-    <published>2026-07-15 04:34:59 -0700</published>
-    <updated>2026-07-15 04:34:59 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/pull/2242"/>
-    <title type="html">lissy93 contributed to lissy93/dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-merge js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- pull_request --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div&gt;
-      &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-        &lt;div class=&quot;color-fg-muted&quot;&gt;
-          &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          opened
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; aria-label=&quot;lissy93/dashy#2242&quot; href=&quot;https://github.com/lissy93/dashy/pull/2242&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2242&lt;/a&gt;
-          &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T04:34:59-07:00&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 04:34&lt;/relative-time&gt;
-          &lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;svg data-component=&quot;Octicon&quot; height=&quot;16&quot; aria-label=&quot;Pull request&quot; class=&quot;octicon octicon-git-pull-request merge d-inline-block mt-1 float-left&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; role=&quot;img&quot;&gt;&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-
-      &lt;div class=&quot;tmp-ml-4&quot;&gt;
-        &lt;div&gt;
-          &lt;span class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;&lt;a class=&quot;color-fg-default text-bold&quot; aria-label=&quot;Updates GitHub stats widget&quot; href=&quot;https://github.com/lissy93/dashy/pull/2242&quot; rel=&quot;noreferrer&quot;&gt;Updates GitHub stats widget&lt;/a&gt;&lt;/span&gt;
-          &lt;span class=&quot;f4 color-fg-muted ml-1&quot;&gt;#2242&lt;/span&gt;
-            &lt;div class=&quot;lh-condensed mb-2 mt-1&quot;&gt;
-              &lt;h3 dir=&quot;auto&quot;&gt;Category&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;Feature&lt;/p&gt;
-&lt;h3 dir=&quot;auto&quot;&gt;Overview&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;Shiny new GitHub stats widget. Fetches user stats and repos from the GitHub API.&lt;/p&gt;
-&lt;h3 dir=&quot;auto&quot;&gt;Issue Number&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;&lt;span class=&quot;issue-keyword tooltipped tooltipped-se&quot; aria-label=&quot;This pull request closes issue #2241.&quot;&gt;Fixes&lt;/span&gt; &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;4891078141&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/lissy93/dashy/issues/2241&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/lissy93/dashy/issues/2241/hovercard&quot; href=&quot;https://github.com/lissy93/dashy/issues/2241&quot; rel=&quot;noreferrer&quot;&gt;#2241&lt;/a&gt;&lt;/p&gt;
-&lt;h3 dir=&quot;auto&quot;&gt;Additional Info&lt;/h3&gt;
-&lt;p dir=&quot;auto&quot;&gt;H…&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-
-          &lt;div class=&quot;diffstat d-inline-block mt-1&quot;&gt;
-            &lt;span class=&quot;color-fg-success&quot;&gt;+286&lt;/span&gt;
-            &lt;span class=&quot;color-fg-danger&quot;&gt;-82&lt;/span&gt;
-          &lt;/div&gt;
-
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/15028150978</id>
-    <published>2026-07-15 11:34:52 UTC</published>
-    <updated>2026-07-15 11:34:52 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/c083f5756a...f9e821755c"/>
-    <title type="html">lissy93 pushed dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/dashy/tree/feat/new-github-stats-widget&quot; rel=&quot;noreferrer&quot;&gt;feat/new-github-stats-widget&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T11:34:52Z&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 11:34&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;1 commit to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/lissy93/dashy/tree/feat/new-github-stats-widget&quot; rel=&quot;noreferrer&quot;&gt;feat/new-github-stats-widget&lt;/a&gt;
-
-          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/lissy93/dashy/commit/f9e821755cb93d76391f352403a50fcf11ce6d89&quot; rel=&quot;noreferrer&quot;&gt;f9e8217&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      ✨ Simplifies options for github stats widget
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/15027395904</id>
-    <published>2026-07-15 11:19:57 UTC</published>
-    <updated>2026-07-15 11:19:57 UTC</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/compare/0000000000...c083f5756a"/>
-    <title type="html">lissy93 created a branch</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- create --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
-          &lt;div class=&quot;color-fg-muted&quot;&gt;
-                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-              
-              created a
-              branch
-              in
-              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
-
-            &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T11:19:57Z&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 11:19&lt;/relative-time&gt;
-            &lt;/span&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-    &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;div&gt;
-        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
-          &lt;div class=&quot;d-inline-block&quot;&gt;
-            &lt;div class=&quot;d-flex&quot;&gt;
-              &lt;div class=&quot;mr-2&quot;&gt;
-                &lt;a class=&quot;d-flex&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/1862727?s=40&amp;amp;v=4&quot; alt=&quot;@lissy93&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small circle&quot;&gt;&lt;/a&gt;
-              &lt;/div&gt;
-                  &lt;div class=&quot;d-inline-block&quot;&gt;
-                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/feat/new-github-stats-widget&quot; href=&quot;https://github.com/lissy93/dashy/tree/refs/heads/feat/new-github-stats-widget&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/feat/new-github-stats-widget&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/lissy93/dashy&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy&lt;/a&gt;
-                  &lt;/div&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-
-
-          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
-            &lt;span&gt;Updated Jul 15&lt;/span&gt;
-          &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:issue_commented/11813544508</id>
-    <published>2026-07-15 02:50:21 -0700</published>
-    <updated>2026-07-15 02:50:21 -0700</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/lissy93/dashy/issues/2241#issuecomment-4979227670"/>
-    <title type="html">lissy93 commented on an issue in dashy</title>
-    <author>
-      <name>lissy93</name>
-      <email>alicia@omg.lol</email>
-      <uri>https://github.com/lissy93</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1862727?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;issues_comment js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- issue_comment --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-      &lt;div class=&quot;d-flex flex-items-baseline mb-2&quot;&gt;
-        &lt;div class=&quot;color-fg-muted&quot;&gt;
-            &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@lissy93&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-          &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/lissy93&quot; rel=&quot;noreferrer&quot;&gt;lissy93&lt;/a&gt;
-          
-          commented on
-          &lt;a class=&quot;Link--primary&quot; title=&quot;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&quot; href=&quot;https://github.com/lissy93/dashy/issues/2241#issuecomment-4979227670&quot; rel=&quot;noreferrer&quot;&gt;lissy93/dashy#2241&lt;/a&gt;
-          &lt;span&gt;
-            · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-07-15T02:50:21-07:00&quot; data-view-component=&quot;true&quot;&gt;July 15, 2026 02:50&lt;/relative-time&gt;
-          &lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;div class=&quot;message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay&quot;&gt;
-      &lt;div class=&quot;f6 mb-1&quot;&gt;
-        &lt;a title=&quot;[BUG] `github-profile-stats` widget doesn&#39;t seem to work?&quot; class=&quot;Link--secondary&quot; href=&quot;https://github.com/lissy93/dashy/issues/2241#issuecomment-4979227670&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar mr-1 avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/1862727?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@lissy93&quot;&gt; &lt;span class=&quot;Link--primary text-bold&quot;&gt;lissy93&lt;/span&gt; commented &lt;relative-time datetime=&quot;2026-07-15T09:50:21Z&quot; class=&quot;no-wrap&quot;&gt;Jul 15, 2026&lt;/relative-time&gt;&lt;/a&gt;
-      &lt;/div&gt;
-        Looks like https://github.com/anuraghazra/github-readme-stats got deprecated 😔
-I&#39;ll see if I can update it another way, to get this working again
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
