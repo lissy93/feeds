@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `19 Jul 2026` - **[lissy93 closed a pull request in awesome-privacy](https://github.com/lissy93/awesome-privacy/pull/679)**
-- `19 Jul 2026` - **[lissy93 closed a pull request in awesome-privacy](https://github.com/lissy93/awesome-privacy/pull/688)**
-- `19 Jul 2026` - **[lissy93 deleted](https://github.com/lissy93/dashy/compare/7e635df28f...0000000000)**
-- `19 Jul 2026` - **[lissy93 pushed dashy](https://github.com/lissy93/dashy/compare/1bf3365088...bab531eba9)**
-- `19 Jul 2026` - **[lissy93 deleted](https://github.com/lissy93/who-dat/compare/81d598e104...0000000000)**
+- `20 Jul 2026` - **[lissy93 created a wiki page in lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy/wiki)**
+- `20 Jul 2026` - **[lissy93 pushed awesome-privacy](https://github.com/lissy93/awesome-privacy/compare/99a2de1d39...8d3c89895f)**
+- `20 Jul 2026` - **[lissy93 pushed awesome-privacy-lissy93](https://github.com/kepta/awesome-privacy-lissy93/compare/18b7974dda...93246ab1ff)**
+- `20 Jul 2026` - **[lissy93 deleted](https://github.com/lissy93/awesome-privacy/compare/4bb0904ccd...0000000000)**
+- `20 Jul 2026` - **[lissy93 pushed awesome-privacy](https://github.com/lissy93/awesome-privacy/compare/53c24c40cc...99a2de1d39)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
