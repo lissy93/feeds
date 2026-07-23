@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `22 Jul 2026` - **[lissy93 opened a pull request in dashy](https://github.com/lissy93/dashy/pull/2266)**
-- `22 Jul 2026` - **[lissy93 pushed dashy](https://github.com/lissy93/dashy/compare/2b90a24c4f...9e274ebe13)**
-- `22 Jul 2026` - **[lissy93 created a branch](https://github.com/lissy93/dashy/compare/0000000000...2b90a24c4f)**
-- `22 Jul 2026` - **[lissy93 opened a pull request in jose](https://github.com/panva/jose/pull/883)**
-- `22 Jul 2026` - **[lissy93 created a branch](https://github.com/lissy93-forks/jose/compare/0000000000...f9e917f58b)**
+- `23 Jul 2026` - **[lissy93 contributed to github/gitignore](https://github.com/github/gitignore/pull/4873)**
+- `23 Jul 2026` - **[lissy93 pushed email-comparison](https://github.com/lissy93/email-comparison/compare/f688b03a86...a673027c77)**
+- `23 Jul 2026` - **[lissy93 opened a pull request in email-comparison](https://github.com/lissy93/email-comparison/pull/46)**
+- `23 Jul 2026` - **[lissy93 created a branch](https://github.com/lissy93/email-comparison/compare/0000000000...f688b03a86)**
+- `23 Jul 2026` - **[lissy93 closed a pull request in dashy](https://github.com/lissy93/dashy/pull/2268)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
