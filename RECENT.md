@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `27 Jul 2026` - **[lissy93 pushed portainer-templates](https://github.com/lissy93/portainer-templates/compare/47007833ac...53a0e8b707)**
-- `27 Jul 2026` - **[lissy93 pushed portainer-templates](https://github.com/lissy93/portainer-templates/compare/ccf6008f27...5b530bc179)**
-- `27 Jul 2026` - **[lissy93 pushed portainer-templates](https://github.com/zerx-lab/portainer-templates/compare/6a90392353...7be0fc5cc6)**
-- `27 Jul 2026` - **[lissy93 pushed vercel](https://github.com/lissy93/vercel/compare/693cd1ddd4...2d5e348dd9)**
-- `27 Jul 2026` - **[lissy93 commented on an issue in AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/issues/8#issuecomment-5096337475)**
+- `28 Jul 2026` - **[lissy93 closed an issue in AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/issues/60)**
+- `28 Jul 2026` - **[lissy93 commented on an issue in AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/issues/60#issuecomment-5110281207)**
+- `28 Jul 2026` - **[lissy93 commented on an issue in web-check](https://github.com/lissy93/web-check/issues/325#issuecomment-5110248502)**
+- `28 Jul 2026` - **[lissy93 closed an issue in web-check](https://github.com/lissy93/web-check/issues/325)**
+- `28 Jul 2026` - **[lissy93 commented on an issue in yap](https://github.com/FrigadeHQ/yap/issues/16#issuecomment-5109776595)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
