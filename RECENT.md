@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `14 Sep 2026` - **[lissy93 contributed to latchset/jwcrypto](https://github.com/latchset/jwcrypto/pull/398)**
-- `14 Sep 2026` - **[lissy93 contributed to latchset/jwcrypto](https://github.com/latchset/jwcrypto/pull/398)**
-- `14 Sep 2026` - **[lissy93 created a branch](https://github.com/lissy93-forks/jwcrypto/compare/0000000000...c2812da78c)**
-- `14 Sep 2026` - **[lissy93 forked lissy93-forks/jwcrypto from latchset/jwcrypto](https://github.com/lissy93-forks/jwcrypto)**
-- `14 Sep 2026` - **[lissy93 pushed domain-locker](https://github.com/lissy93/domain-locker/compare/c8f10b53e6...facb735f95)**
+- `15 Sep 2026` - **[lissy93 deleted](https://github.com/lissy93/AdGuardian-Term/compare/9a59cd1b84...0000000000)**
+- `15 Sep 2026` - **[lissy93 closed an issue in AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/issues/63)**
+- `15 Sep 2026` - **[lissy93 pushed AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/compare/c5d584e64e...c9010af837)**
+- `15 Sep 2026` - **[lissy93 contributed to lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/pull/64)**
+- `15 Sep 2026` - **[lissy93 contributed to lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term/pull/64)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
