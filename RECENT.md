@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `16 Oct 2026` - **[lissy93 contributed to lissy93/portainer-templates](https://github.com/lissy93/portainer-templates/pull/157)**
-- `16 Oct 2026` - **[lissy93 contributed to lissy93/portainer-templates](https://github.com/lissy93/portainer-templates/pull/157)**
-- `16 Oct 2026` - **[lissy93 contributed to lissy93/web-check](https://github.com/lissy93/web-check/pull/359)**
-- `16 Oct 2026` - **[lissy93 contributed to lissy93/web-check](https://github.com/lissy93/web-check/pull/359)**
-- `15 Oct 2026` - **[lissy93 pushed my-website](https://github.com/lissy93/my-website/compare/55e36e4be1...cfa0a93d65)**
+- `17 Oct 2026` - **[lissy93 closed a pull request in awesome-privacy](https://github.com/lissy93/awesome-privacy/pull/854)**
+- `17 Oct 2026` - **[lissy93 deleted](https://github.com/lissy93/who-dat/compare/204943e20f...0000000000)**
+- `17 Oct 2026` - **[lissy93 closed a pull request in portainer-templates](https://github.com/lissy93/portainer-templates/pull/158)**
+- `16 Oct 2026` - **[lissy93 deleted](https://github.com/lissy93/dashy/compare/cc27e3f47e...0000000000)**
+- `16 Oct 2026` - **[lissy93 pushed dashy](https://github.com/lissy93/dashy/compare/0406a420b6...7d192d7c4e)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
