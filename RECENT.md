@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- ` 1 Nov 2026` - **[lissy93 contributed to lissy93/web-check](https://github.com/lissy93/web-check/pull/377)**
-- ` 1 Nov 2026` - **[lissy93 closed a pull request in web-check](https://github.com/lissy93/web-check/pull/374)**
-- ` 1 Nov 2026` - **[lissy93 closed a pull request in web-check](https://github.com/lissy93/web-check/pull/376)**
-- ` 1 Nov 2026` - **[lissy93 contributed to lissy93/web-check](https://github.com/lissy93/web-check/pull/377)**
-- ` 1 Nov 2026` - **[lissy93 closed a pull request in web-check](https://github.com/lissy93/web-check/pull/375)**
+- `11 Nov 2026` - **[lissy93 opened a pull request in web-crypt](https://github.com/lissy93/web-crypt/pull/7)**
+- `11 Nov 2026` - **[lissy93 commented on an issue in awesome-privacy](https://github.com/lissy93/awesome-privacy/issues/867#issuecomment-6803940091)**
+- `11 Nov 2026` - **[lissy93 commented on an issue in awesome-privacy](https://github.com/lissy93/awesome-privacy/issues/867#issuecomment-6803144077)**
+- `11 Nov 2026` - **[lissy93 commented on pull request lissy93/awesome-privacy#893](https://github.com/lissy93/awesome-privacy/pull/893#discussion_r4541048645)**
+- `11 Nov 2026` - **[lissy93 closed an issue in web-crypt](https://github.com/lissy93/web-crypt/issues/6)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
@@ -48,11 +48,11 @@
 
 ## Dev.to [![Dev.to - @Lissy93](https://img.shields.io/badge/-Lissy93-a75fff?style=flat&logo=Dev.to&logoColor=white)](https://dev.to/lissy93 "Dev.to - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/dev-to.atom)
 <!-- dev-to-feed start -->
+- ` 3 Nov 2026` - **[I'm sure there's lot's of other weird trends AI loves to create, but this one is quite funny](https://dev.to/lissy93/im-sure-theres-lots-of-other-weird-trends-ai-loves-to-create-but-this-one-is-quite-funny-1d7a)**
 - ` 5 Jan 2026` - **[I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)**
 - `20 Nov 2023` - **[50 ways to bring in extra cash as a developer 💰](https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6)**
 - `20 Feb 2023` - **[SvelteKit 1.0 - Building a personal blog, that shows your DEV posts 🦄](https://dev.to/lissy93/sveltekit-10-build-an-blog-fetching-posts-from-your-dev-profile-29f)**
 - `19 Jan 2023` - **[CLI tools you won't be able to live without 🔧](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)**
-- `18 Dec 2022` - **[20 Git Commands you (probably) didn't know about 🧙‍♂️](https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o)**
 <!-- dev-to-feed end -->
 
 ## Blogger [![Blogger - Lissy93](https://img.shields.io/badge/-Lissy93-FF5722?style=flat&logo=blogger&logoColor=white)](https://lissy93.blogspot.com/ "Blogger - Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/blogger.atom)
