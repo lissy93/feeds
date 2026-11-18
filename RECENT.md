@@ -32,11 +32,11 @@
 
 ## GitHub [![GitHub - @Lissy93](https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white)](https://github.com/Lissy93 "GitHub - @Lissy93") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/github.atom)
 <!-- github-feed start -->
-- `16 Nov 2026` - **[lissy93 closed a pull request in portainer-templates](https://github.com/lissy93/portainer-templates/pull/183)**
-- `16 Nov 2026` - **[lissy93 pushed dashy](https://github.com/lissy93/dashy/compare/cb56d1d2fe...bc0c404ff6)**
-- `16 Nov 2026` - **[lissy93 closed a pull request in web-check-api](https://github.com/xray-web/web-check-api/pull/79)**
-- `15 Nov 2026` - **[lissy93 closed a pull request in portainer-templates](https://github.com/lissy93/portainer-templates/pull/181)**
-- `15 Nov 2026` - **[lissy93 deleted](https://github.com/lissy93/portainer-templates/compare/a3c21c7266...0000000000)**
+- `17 Nov 2026` - **[lissy93 closed an issue in bug-bounties](https://github.com/lissy93/bug-bounties/issues/257)**
+- `17 Nov 2026` - **[lissy93 starred fosrl/pangolin](https://github.com/fosrl/pangolin)**
+- `17 Nov 2026` - **[lissy93 closed a pull request in awesome-privacy](https://github.com/lissy93/awesome-privacy/pull/903)**
+- `17 Nov 2026` - **[lissy93 closed a pull request in awesome-privacy](https://github.com/lissy93/awesome-privacy/pull/901)**
+- `17 Nov 2026` - **[lissy93 closed a pull request in awesome-privacy](https://github.com/lissy93/awesome-privacy/pull/902)**
 <!-- github-feed end -->
 
 ## YouTube [![YouTube - Alicia Sykes](https://img.shields.io/badge/-Alicia_Sykes-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@AliciaSykes "YouTube - Alicia Sykes") [![RSS Feed](https://img.shields.io/badge/-RSS-FFF?style=flat&logo=rss&logoColor=FFA500)](https://raw.githubusercontent.com/Lissy93/feeds/main/youtube.atom)
